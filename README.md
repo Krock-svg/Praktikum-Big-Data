@@ -4,6 +4,32 @@ Repositori ini mendokumentasikan modul materi, dataset, latihan mandiri, dan lap
 
 ---
 
+## ⚡ Quick Guide: Cara Update & Push ke GitHub
+
+Gunakan perintah di bawah ini untuk mengunggah perubahan ke GitHub:
+
+### One-liner (Tinggal Salin & Tempel)
+```bash
+git add . && git commit -m "Update praktikum big data" && git push origin main
+```
+
+### Langkah Per Baris
+```bash
+# 1. Pindah ke direktori repositori
+cd /home/krock/praktikum-bigdata
+
+# 2. Tandai semua file baru & perubahan
+git add .
+
+# 3. Simpan perubahan dengan pesan commit
+git commit -m "Update praktikum big data"
+
+# 4. Unggah ke GitHub
+git push origin main
+```
+
+---
+
 ## 📌 Catatan Penggunaan Lingkungan (Environment Note)
 
 > [!NOTE]
