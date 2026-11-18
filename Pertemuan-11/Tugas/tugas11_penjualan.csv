@@ -1,0 +1,2501 @@
+nama_menu,cabang,waktu_pesan,qty,harga_satuan,total_penjualan
+Kentang Goreng,Semarang,Malam,1,30000,27750.163531558544
+Kentang Goreng,Yogyakarta,Sore,3,20000,64216.16074371864
+Kentang Goreng,Semarang,Siang,5,22000,108722.79259154423
+Kentang Goreng,Yogyakarta,Pagi,2,20000,54483.205871792496
+Roti Bakar,Magelang,Malam,2,30000,58157.94412015849
+Americano,Magelang,Pagi,1,30000,32462.966390290698
+Cappuccino,Magelang,Malam,2,25000,51846.84285104993
+Cappuccino,Semarang,Pagi,5,25000,114192.26376783242
+Kopi Susu,Yogyakarta,Pagi,1,22000,9697.180344260187
+Americano,Magelang,Pagi,2,15000,32316.051747436813
+Kentang Goreng,Yogyakarta,Malam,1,22000,6983.092509668062
+Cappuccino,Semarang,Siang,5,15000,72688.44097297853
+Americano,Semarang,Pagi,2,30000,58168.73853450228
+Kopi Susu,Semarang,Pagi,2,30000,59186.92773455914
+Kopi Susu,Semarang,Siang,3,25000,88090.33045518362
+Kentang Goreng,Yogyakarta,Sore,5,25000,131347.02447174254
+Cappuccino,Yogyakarta,Sore,1,15000,14119.604545899489
+Es Teh,Semarang,Malam,2,30000,61092.593395579286
+Kopi Susu,Semarang,Sore,5,20000,99075.59553662871
+Es Teh,Yogyakarta,Siang,5,20000,105517.38250680055
+Kentang Goreng,Magelang,Sore,3,20000,60621.54376797836
+Cappuccino,Yogyakarta,Siang,3,30000,83317.37796037593
+Kentang Goreng,Semarang,Sore,3,18000,52951.836338126195
+Es Teh,Magelang,Siang,1,20000,15035.266905264334
+Es Teh,Yogyakarta,Pagi,1,22000,13258.419364734067
+Kopi Susu,Semarang,Pagi,2,25000,52574.80123047901
+Es Teh,Magelang,Sore,4,25000,91850.99404486138
+Cappuccino,Yogyakarta,Sore,1,30000,31619.594606797247
+Roti Bakar,Semarang,Malam,3,25000,75250.39203560735
+Kentang Goreng,Semarang,Pagi,5,30000,147346.20107124562
+Roti Bakar,Semarang,Siang,5,15000,77479.20331370088
+Es Teh,Semarang,Malam,2,30000,57961.37459594474
+Americano,Magelang,Sore,4,18000,87002.13029049462
+Cappuccino,Yogyakarta,Pagi,3,22000,73925.48786449118
+Roti Bakar,Magelang,Malam,3,20000,61183.402732171075
+Americano,Semarang,Pagi,1,18000,37067.319652675695
+Roti Bakar,Semarang,Pagi,2,18000,43896.938828336904
+Kopi Susu,Magelang,Malam,4,25000,93528.97430746368
+Es Teh,Semarang,Siang,5,22000,114773.87849368666
+Kentang Goreng,Magelang,Malam,1,22000,13987.872303020271
+Americano,Yogyakarta,Malam,2,20000,44214.41724831106
+Cappuccino,Yogyakarta,Pagi,4,15000,51809.46254997011
+Roti Bakar,Semarang,Pagi,2,20000,44157.60657295248
+Roti Bakar,Semarang,Sore,2,15000,35236.155241146844
+Americano,Magelang,Siang,5,30000,158075.1016480395
+Kopi Susu,Yogyakarta,Sore,2,15000,27011.936563750864
+Roti Bakar,Semarang,Sore,1,18000,23150.823490562765
+Roti Bakar,Semarang,Siang,3,15000,43056.48381978644
+Americano,Semarang,Siang,2,20000,36378.66528724876
+Kentang Goreng,Semarang,Siang,5,20000,104947.3401509157
+Es Teh,Semarang,Malam,5,15000,80012.85389351824
+Roti Bakar,Magelang,Pagi,3,22000,61252.69803485974
+Es Teh,Semarang,Malam,2,25000,59578.6328084211
+Kopi Susu,Semarang,Sore,5,30000,157286.59053941714
+Roti Bakar,Semarang,Pagi,4,25000,112512.86088897158
+Kopi Susu,Semarang,Siang,4,20000,74615.00713777238
+Americano,Yogyakarta,Sore,4,30000,100503.81053894058
+Americano,Semarang,Pagi,2,15000,30243.34367205522
+Kentang Goreng,Magelang,Pagi,5,30000,148368.1788071023
+Roti Bakar,Semarang,Siang,1,25000,20684.76436218718
+Kentang Goreng,Yogyakarta,Malam,2,22000,40941.668383517484
+Es Teh,Magelang,Sore,2,15000,27105.76743518115
+Es Teh,Yogyakarta,Siang,2,22000,41624.974619999855
+Es Teh,Magelang,Siang,5,20000,109106.90128826164
+Es Teh,Semarang,Pagi,1,18000,19624.90819810027
+Kopi Susu,Magelang,Sore,5,15000,75806.71578463208
+Americano,Semarang,Siang,4,18000,68695.76216194012
+Kentang Goreng,Semarang,Pagi,3,20000,56822.21318418652
+Kopi Susu,Magelang,Malam,2,22000,43117.454600461475
+Cappuccino,Yogyakarta,Pagi,4,30000,115774.25437526118
+Roti Bakar,Yogyakarta,Sore,2,30000,69035.99628367393
+Americano,Yogyakarta,Pagi,2,30000,56984.367997645495
+Cappuccino,Magelang,Malam,5,18000,99818.21034873098
+Roti Bakar,Magelang,Pagi,4,15000,69135.3456812243
+Kopi Susu,Yogyakarta,Sore,2,22000,43876.22189043172
+Cappuccino,Magelang,Sore,5,18000,88649.66723344695
+Cappuccino,Semarang,Sore,2,18000,27977.620178961362
+Roti Bakar,Yogyakarta,Pagi,3,25000,77870.28904661878
+Cappuccino,Magelang,Malam,3,30000,95304.21590942045
+Cappuccino,Magelang,Sore,1,15000,15583.200110281758
+Kopi Susu,Magelang,Pagi,1,20000,17809.410708415548
+Kentang Goreng,Magelang,Sore,4,25000,98034.49710774116
+Americano,Yogyakarta,Siang,1,15000,15964.58124970159
+Americano,Yogyakarta,Malam,4,25000,93227.20614131913
+Roti Bakar,Magelang,Pagi,4,30000,110735.1416121673
+Kentang Goreng,Semarang,Malam,4,15000,76870.92867608083
+Es Teh,Semarang,Siang,1,22000,3515.186906936764
+Roti Bakar,Semarang,Sore,4,25000,116809.99959213627
+Kentang Goreng,Yogyakarta,Pagi,1,18000,22262.12874620756
+Americano,Yogyakarta,Pagi,1,25000,15228.226802768402
+Americano,Magelang,Siang,5,20000,108059.06987730919
+Es Teh,Semarang,Malam,1,25000,30650.067334827236
+Kopi Susu,Semarang,Siang,1,18000,21724.48668518536
+Es Teh,Semarang,Pagi,4,25000,101175.1017641924
+Es Teh,Semarang,Sore,5,22000,108254.2578712834
+Kentang Goreng,Semarang,Malam,5,18000,97170.55632569511
+Kopi Susu,Semarang,Sore,5,25000,123090.7318448265
+Cappuccino,Semarang,Pagi,1,22000,28979.427653737024
+Es Teh,Yogyakarta,Sore,2,20000,48869.218103003484
+Es Teh,Semarang,Siang,2,15000,22253.5981530608
+Americano,Magelang,Sore,4,25000,92282.30886919746
+Kopi Susu,Yogyakarta,Pagi,5,20000,94637.24727058892
+Cappuccino,Yogyakarta,Sore,4,22000,89466.70217976239
+Roti Bakar,Yogyakarta,Sore,3,25000,76303.31190885346
+Es Teh,Magelang,Malam,4,25000,99742.99864083837
+Cappuccino,Yogyakarta,Pagi,4,22000,91530.43980326127
+Kentang Goreng,Semarang,Pagi,5,25000,109909.94686156882
+Roti Bakar,Yogyakarta,Sore,1,20000,22085.179109743014
+Roti Bakar,Yogyakarta,Pagi,4,30000,128125.1900003542
+Kopi Susu,Semarang,Pagi,4,20000,80607.2020429652
+Roti Bakar,Magelang,Sore,5,25000,131913.96317228413
+Americano,Semarang,Pagi,4,25000,101983.16428409873
+Kopi Susu,Yogyakarta,Sore,4,22000,79806.15084347177
+Cappuccino,Yogyakarta,Pagi,3,22000,62435.283511122245
+Americano,Semarang,Malam,1,15000,12917.370642782218
+Kentang Goreng,Semarang,Malam,5,30000,133336.7270079203
+Cappuccino,Magelang,Malam,2,25000,42665.25534975078
+Kopi Susu,Semarang,Siang,2,15000,36106.53214406312
+Es Teh,Yogyakarta,Siang,2,15000,27076.445577607527
+Kopi Susu,Semarang,Sore,1,30000,26307.44587417768
+Kentang Goreng,Magelang,Pagi,2,18000,29990.327979972408
+Kopi Susu,Magelang,Pagi,2,25000,51191.652640928274
+Kentang Goreng,Magelang,Pagi,3,18000,55968.801328555
+Kentang Goreng,Semarang,Siang,3,25000,78562.60399886215
+Es Teh,Semarang,Pagi,3,30000,81773.63644025596
+Cappuccino,Semarang,Pagi,1,30000,24871.503667932993
+Roti Bakar,Yogyakarta,Pagi,1,20000,15659.234734077196
+Americano,Magelang,Sore,1,20000,12588.856856324866
+Kentang Goreng,Magelang,Sore,4,18000,58552.35833311458
+Cappuccino,Semarang,Sore,5,22000,108825.78491769724
+Roti Bakar,Semarang,Malam,1,18000,23963.165578809894
+Kentang Goreng,Semarang,Pagi,1,20000,21161.503011110257
+Kentang Goreng,Yogyakarta,Siang,1,22000,9016.306337302925
+Cappuccino,Magelang,Sore,4,22000,88287.83786889983
+Es Teh,Yogyakarta,Siang,4,18000,77035.62826707422
+Cappuccino,Magelang,Siang,4,20000,94023.08116042984
+Roti Bakar,Yogyakarta,Siang,5,25000,124278.48764092906
+Kopi Susu,Semarang,Sore,5,22000,121532.42230728961
+Es Teh,Semarang,Sore,5,18000,75114.29672519182
+Es Teh,Yogyakarta,Malam,5,15000,71297.77484952906
+Kopi Susu,Semarang,Pagi,1,25000,27135.88648156411
+Americano,Semarang,Malam,2,18000,25555.300136086564
+Cappuccino,Magelang,Pagi,4,22000,84421.8612224884
+Cappuccino,Semarang,Pagi,2,15000,25715.037584052225
+Cappuccino,Semarang,Siang,1,20000,23432.041022850783
+Americano,Semarang,Pagi,2,25000,42515.77413473763
+Americano,Yogyakarta,Siang,5,22000,100406.43349874599
+Kopi Susu,Magelang,Pagi,4,30000,132222.68880124914
+Kentang Goreng,Semarang,Malam,4,30000,111633.11676077964
+Roti Bakar,Magelang,Siang,4,30000,133813.81370514302
+Cappuccino,Semarang,Pagi,5,20000,97831.97627196775
+Kopi Susu,Magelang,Pagi,3,22000,67733.2310504251
+Cappuccino,Semarang,Siang,4,18000,79368.8976590754
+Kentang Goreng,Semarang,Malam,2,22000,36566.733848907425
+Cappuccino,Magelang,Sore,1,30000,22975.604852584805
+Kentang Goreng,Yogyakarta,Sore,5,20000,114720.99557691718
+Kentang Goreng,Yogyakarta,Pagi,5,25000,115586.87951791669
+Cappuccino,Yogyakarta,Malam,1,20000,25403.692480839614
+Kopi Susu,Semarang,Pagi,1,25000,23035.72048167581
+Roti Bakar,Yogyakarta,Pagi,1,15000,25561.899141865277
+Cappuccino,Yogyakarta,Pagi,5,18000,73300.55916459493
+Kentang Goreng,Yogyakarta,Malam,1,22000,21722.22158812788
+Roti Bakar,Magelang,Malam,3,20000,58052.717958584595
+Es Teh,Yogyakarta,Pagi,2,25000,41187.25425286281
+Roti Bakar,Yogyakarta,Sore,1,22000,21974.143012573313
+Cappuccino,Yogyakarta,Pagi,2,22000,47959.01719890546
+Kopi Susu,Magelang,Siang,2,15000,20388.687278319558
+Kopi Susu,Magelang,Malam,2,15000,39499.747037239
+Kentang Goreng,Magelang,Pagi,5,20000,111168.7767188446
+Cappuccino,Semarang,Malam,3,25000,86579.23475341003
+Cappuccino,Semarang,Siang,4,22000,107985.32187123489
+Kopi Susu,Yogyakarta,Malam,5,30000,153535.01155458705
+Americano,Semarang,Pagi,2,15000,23962.347813882952
+Cappuccino,Yogyakarta,Malam,1,15000,-1095.1600070547975
+Americano,Yogyakarta,Sore,2,20000,38874.75981115011
+Roti Bakar,Semarang,Malam,2,22000,33330.114137133874
+Kopi Susu,Magelang,Pagi,5,22000,102639.79707984698
+Es Teh,Yogyakarta,Pagi,5,25000,140980.43699644538
+Es Teh,Semarang,Sore,2,20000,45663.63688791949
+Americano,Semarang,Pagi,3,15000,41786.03260995622
+Kentang Goreng,Yogyakarta,Siang,4,18000,71165.32115426873
+Es Teh,Semarang,Malam,4,15000,74535.92440619296
+Kentang Goreng,Magelang,Malam,4,18000,81941.45900377957
+Cappuccino,Semarang,Pagi,1,25000,18125.91533607724
+Americano,Semarang,Malam,4,25000,105426.93048998194
+Cappuccino,Semarang,Malam,5,20000,121528.49135777848
+Kentang Goreng,Semarang,Pagi,1,18000,13482.091248760085
+Americano,Semarang,Pagi,3,22000,70935.47683487965
+Cappuccino,Magelang,Malam,1,25000,12557.514270256477
+Kopi Susu,Yogyakarta,Siang,3,30000,87229.71620767485
+Americano,Semarang,Siang,2,30000,60346.88471587405
+Kopi Susu,Semarang,Siang,4,22000,93068.53186210553
+Kopi Susu,Magelang,Siang,1,20000,27273.431234519732
+Americano,Semarang,Pagi,1,15000,18463.28180465882
+Kopi Susu,Semarang,Siang,5,18000,90898.27688738155
+Americano,Yogyakarta,Sore,2,20000,33914.22633140085
+Kopi Susu,Yogyakarta,Malam,2,20000,35337.505608340485
+Americano,Magelang,Malam,2,30000,44719.386500263885
+Kopi Susu,Yogyakarta,Malam,2,20000,42469.52891383772
+Kentang Goreng,Yogyakarta,Malam,5,20000,107673.3545404853
+Roti Bakar,Yogyakarta,Malam,5,25000,114612.60156181046
+Kentang Goreng,Yogyakarta,Sore,5,30000,147401.0712592691
+Roti Bakar,Semarang,Sore,1,15000,11392.74704870483
+Kentang Goreng,Yogyakarta,Siang,3,15000,34950.07937109624
+Kopi Susu,Magelang,Siang,1,20000,18037.804843286507
+Cappuccino,Magelang,Sore,3,18000,66935.42362043545
+Cappuccino,Magelang,Sore,1,15000,15433.90660362718
+Es Teh,Semarang,Sore,3,18000,56908.608529258374
+Americano,Magelang,Siang,4,15000,50411.51453931854
+Americano,Yogyakarta,Pagi,3,15000,42763.82574679256
+Americano,Magelang,Sore,2,20000,26959.519159723488
+Cappuccino,Yogyakarta,Pagi,4,18000,71538.95818126225
+Roti Bakar,Semarang,Sore,5,18000,94945.22076953066
+Roti Bakar,Yogyakarta,Sore,1,22000,18483.081805443144
+Cappuccino,Magelang,Sore,3,25000,76491.64471650819
+Kentang Goreng,Semarang,Sore,1,22000,22610.26422042692
+Es Teh,Yogyakarta,Sore,5,15000,76749.3429054874
+Roti Bakar,Yogyakarta,Siang,4,20000,69955.31759333744
+Kentang Goreng,Yogyakarta,Siang,1,25000,32353.519551853577
+Roti Bakar,Yogyakarta,Malam,3,15000,41188.871757480985
+Americano,Magelang,Siang,5,30000,135217.15696374947
+Kopi Susu,Magelang,Siang,3,20000,59635.92041224892
+Cappuccino,Semarang,Siang,5,30000,153835.7944259609
+Kopi Susu,Yogyakarta,Sore,5,22000,102294.4858809308
+Roti Bakar,Semarang,Pagi,1,25000,17774.88439839786
+Americano,Magelang,Malam,5,22000,115810.29600214415
+Roti Bakar,Semarang,Malam,3,18000,52599.244997867776
+Cappuccino,Magelang,Siang,4,18000,84365.28167902816
+Americano,Yogyakarta,Malam,2,30000,54993.09945914406
+Kopi Susu,Magelang,Siang,3,25000,89074.04353741612
+Americano,Magelang,Sore,4,18000,85848.33629097116
+Americano,Semarang,Malam,3,15000,39855.15084410887
+Americano,Yogyakarta,Sore,3,15000,33109.279537734525
+Americano,Magelang,Pagi,5,22000,123569.50979820198
+Kentang Goreng,Semarang,Sore,1,15000,-4153.747565958609
+Kentang Goreng,Magelang,Sore,4,20000,83768.70839550208
+Es Teh,Semarang,Pagi,4,22000,85458.9563613903
+Americano,Semarang,Pagi,4,30000,115695.5850641424
+Roti Bakar,Magelang,Siang,3,18000,60217.381348080875
+Americano,Semarang,Sore,4,22000,76451.99073776793
+Es Teh,Magelang,Malam,4,22000,92391.60913505322
+Americano,Yogyakarta,Sore,1,22000,28404.44480993661
+Kentang Goreng,Magelang,Malam,5,18000,81228.53183453884
+Roti Bakar,Semarang,Siang,2,18000,43716.655213305836
+Roti Bakar,Yogyakarta,Sore,1,25000,21787.282741169853
+Kentang Goreng,Yogyakarta,Siang,1,20000,19361.665427531287
+Kentang Goreng,Magelang,Sore,1,25000,19728.022671450126
+Kopi Susu,Semarang,Pagi,4,18000,53496.35986478858
+Es Teh,Semarang,Malam,2,22000,41860.89458880534
+Roti Bakar,Magelang,Pagi,5,20000,86462.54946533398
+Roti Bakar,Magelang,Siang,3,15000,44338.72490118944
+Roti Bakar,Semarang,Sore,4,25000,94608.45307145877
+Roti Bakar,Yogyakarta,Malam,1,25000,43441.244119553754
+Roti Bakar,Yogyakarta,Pagi,2,18000,36173.190475729665
+Es Teh,Magelang,Sore,4,18000,71048.69923830625
+Kopi Susu,Magelang,Siang,5,15000,75158.00820950186
+Kopi Susu,Yogyakarta,Sore,5,20000,97842.550172392
+Roti Bakar,Magelang,Siang,3,18000,50334.263181070935
+Es Teh,Yogyakarta,Malam,1,18000,29317.486700781803
+Americano,Yogyakarta,Sore,5,22000,115004.94628338804
+Cappuccino,Magelang,Pagi,3,15000,47998.175469926224
+Kentang Goreng,Magelang,Sore,1,22000,31219.084276230715
+Americano,Semarang,Siang,5,25000,129085.06562743107
+Cappuccino,Magelang,Siang,4,22000,86784.97371828136
+Roti Bakar,Magelang,Sore,5,30000,144894.0059052939
+Es Teh,Yogyakarta,Malam,3,30000,80419.63914654955
+Kentang Goreng,Semarang,Malam,2,30000,61133.48956113904
+Kentang Goreng,Semarang,Malam,2,22000,48658.448992503516
+Americano,Yogyakarta,Sore,2,22000,44213.82731214697
+Americano,Magelang,Pagi,2,22000,44741.595224296834
+Americano,Yogyakarta,Malam,3,25000,74279.76395936692
+Kopi Susu,Semarang,Siang,3,22000,64302.122085016636
+Americano,Yogyakarta,Malam,1,22000,24793.825232728588
+Es Teh,Semarang,Pagi,5,18000,91899.15830831595
+Roti Bakar,Semarang,Sore,5,15000,85128.37237644717
+Roti Bakar,Magelang,Siang,2,18000,41811.069783196595
+Americano,Magelang,Siang,2,20000,40124.812469437136
+Es Teh,Magelang,Sore,4,15000,75486.82453119374
+Roti Bakar,Semarang,Malam,4,22000,91858.12495974518
+Kentang Goreng,Magelang,Siang,5,22000,104069.68049479228
+Kentang Goreng,Semarang,Pagi,4,22000,89084.02549539511
+Roti Bakar,Magelang,Malam,1,30000,30586.197171698543
+Kopi Susu,Semarang,Malam,4,25000,92091.82930373507
+Es Teh,Yogyakarta,Malam,3,30000,102285.1109804416
+Kentang Goreng,Magelang,Siang,1,30000,45739.52267747224
+Kentang Goreng,Magelang,Pagi,2,30000,65936.87143965982
+Kopi Susu,Yogyakarta,Malam,1,25000,21131.987793842625
+Kentang Goreng,Semarang,Malam,3,15000,49108.748590091855
+Es Teh,Semarang,Siang,4,22000,100150.03052376708
+Kentang Goreng,Yogyakarta,Siang,4,22000,89389.70348410362
+Cappuccino,Magelang,Pagi,2,30000,57565.821752665084
+Kentang Goreng,Yogyakarta,Siang,2,22000,39955.5916205473
+Roti Bakar,Magelang,Siang,3,18000,53718.75292992352
+Cappuccino,Magelang,Sore,4,30000,125125.78679793782
+Es Teh,Yogyakarta,Siang,5,22000,111410.31052354682
+Kentang Goreng,Yogyakarta,Sore,5,18000,92926.19263833525
+Kopi Susu,Yogyakarta,Malam,3,25000,87935.6323924363
+Americano,Semarang,Sore,5,20000,97258.65178093585
+Roti Bakar,Semarang,Sore,3,30000,95648.61110213105
+Kentang Goreng,Magelang,Sore,3,20000,59087.59793574097
+Es Teh,Yogyakarta,Pagi,5,25000,108265.08894188354
+Es Teh,Semarang,Malam,2,25000,65227.45390605138
+Es Teh,Yogyakarta,Pagi,4,18000,79996.97525357804
+Kopi Susu,Magelang,Sore,2,22000,50228.10247388318
+Es Teh,Yogyakarta,Malam,1,15000,15811.417630940334
+Kopi Susu,Magelang,Siang,3,22000,59287.331353812115
+Es Teh,Yogyakarta,Sore,2,15000,23833.92264680846
+Kopi Susu,Yogyakarta,Pagi,1,22000,15595.803282703766
+Cappuccino,Magelang,Pagi,1,15000,20312.68018948317
+Kentang Goreng,Yogyakarta,Siang,4,25000,108836.06314865508
+Americano,Semarang,Sore,4,30000,114102.49812927873
+Roti Bakar,Semarang,Pagi,5,30000,151347.62480946904
+Cappuccino,Magelang,Siang,1,20000,31513.84966509036
+Roti Bakar,Yogyakarta,Malam,4,18000,68747.34023788694
+Kopi Susu,Magelang,Pagi,2,25000,62533.6657348031
+Es Teh,Magelang,Pagi,2,25000,46426.53652451648
+Cappuccino,Magelang,Malam,2,30000,57251.04536896427
+Kentang Goreng,Semarang,Siang,4,22000,82623.9389045681
+Kentang Goreng,Semarang,Malam,2,15000,20241.12009596362
+Americano,Semarang,Malam,2,15000,24382.934450513112
+Cappuccino,Yogyakarta,Pagi,2,15000,33217.30491514541
+Kentang Goreng,Semarang,Sore,4,30000,113461.82597873233
+Kopi Susu,Yogyakarta,Malam,3,25000,64400.883232548724
+Kopi Susu,Semarang,Pagi,2,18000,35272.79828090106
+Americano,Yogyakarta,Siang,1,20000,13879.036864532107
+Kopi Susu,Yogyakarta,Pagi,5,25000,125461.8046420925
+Kopi Susu,Semarang,Siang,5,25000,115655.554351752
+Es Teh,Semarang,Pagi,5,15000,69828.7609584539
+Kopi Susu,Yogyakarta,Sore,1,15000,9165.649397491827
+Kopi Susu,Magelang,Siang,2,25000,41204.99119104654
+Es Teh,Yogyakarta,Siang,5,22000,105037.33581660711
+Kentang Goreng,Yogyakarta,Malam,3,18000,69687.74073584385
+Kentang Goreng,Yogyakarta,Siang,5,22000,108983.19576282127
+Roti Bakar,Magelang,Sore,5,25000,123166.45130843435
+Kopi Susu,Semarang,Malam,2,18000,30415.507599638957
+Roti Bakar,Yogyakarta,Pagi,2,20000,31125.14083045799
+Kentang Goreng,Yogyakarta,Malam,4,22000,87102.51784626058
+Kentang Goreng,Magelang,Sore,3,18000,49489.51033412021
+Roti Bakar,Semarang,Sore,2,20000,41499.75384694266
+Americano,Magelang,Siang,3,15000,37337.34201517915
+Kentang Goreng,Yogyakarta,Pagi,4,25000,100988.90850961341
+Americano,Magelang,Pagi,4,25000,102614.5429236137
+Roti Bakar,Magelang,Sore,2,18000,35549.76823504563
+Kentang Goreng,Magelang,Pagi,2,18000,36783.72860787414
+Cappuccino,Magelang,Siang,5,20000,91573.93629343473
+Americano,Magelang,Sore,1,22000,19412.145050139316
+Roti Bakar,Yogyakarta,Malam,4,30000,118533.82717624113
+Roti Bakar,Yogyakarta,Siang,2,15000,35340.89142138606
+Es Teh,Magelang,Siang,4,22000,92048.55366401968
+Americano,Semarang,Sore,3,30000,85204.7388305923
+Americano,Magelang,Sore,4,20000,71237.60180869706
+Roti Bakar,Semarang,Siang,2,20000,29028.746576736867
+Kopi Susu,Magelang,Sore,5,18000,101541.10983120668
+Roti Bakar,Yogyakarta,Pagi,5,22000,118391.79379791427
+Cappuccino,Magelang,Pagi,3,22000,68655.08304431902
+Kentang Goreng,Semarang,Sore,4,25000,107503.12209143858
+Kopi Susu,Semarang,Sore,5,22000,112669.41253811988
+Es Teh,Magelang,Siang,2,30000,61383.474137154844
+Es Teh,Semarang,Sore,1,22000,36005.19496009775
+Cappuccino,Magelang,Pagi,1,30000,37727.49930824803
+Kopi Susu,Semarang,Pagi,1,18000,533.9271781035495
+Kentang Goreng,Magelang,Malam,2,15000,40192.71110213317
+Es Teh,Yogyakarta,Siang,5,20000,94180.0184099938
+Kentang Goreng,Magelang,Sore,3,22000,68412.4357668123
+Es Teh,Magelang,Sore,2,30000,67046.11417233005
+Es Teh,Semarang,Siang,3,15000,41564.723452942555
+Es Teh,Semarang,Malam,5,18000,94654.92354324523
+Kentang Goreng,Magelang,Sore,1,18000,7481.023412968412
+Roti Bakar,Semarang,Siang,1,18000,17071.26559630441
+Cappuccino,Yogyakarta,Pagi,1,30000,28874.288198003786
+Es Teh,Yogyakarta,Siang,2,30000,52776.843913977966
+Roti Bakar,Yogyakarta,Pagi,2,20000,43401.604759466216
+Roti Bakar,Magelang,Pagi,3,18000,38654.495821180666
+Roti Bakar,Semarang,Siang,1,15000,9489.294405918223
+Kopi Susu,Magelang,Sore,5,20000,102269.53136197312
+Cappuccino,Yogyakarta,Pagi,2,22000,41153.88089541929
+Kopi Susu,Magelang,Sore,1,18000,4835.953142293703
+Roti Bakar,Semarang,Pagi,1,22000,22649.859034749643
+Es Teh,Yogyakarta,Siang,3,22000,74844.6990359677
+Americano,Semarang,Pagi,3,18000,57548.24635182728
+Kopi Susu,Magelang,Malam,2,25000,53774.531150719435
+Americano,Magelang,Sore,3,20000,71024.35594934502
+Cappuccino,Yogyakarta,Siang,5,15000,70612.18655721222
+Americano,Yogyakarta,Pagi,5,18000,79391.73359981629
+Kopi Susu,Semarang,Sore,2,25000,64463.22502089997
+Americano,Magelang,Siang,4,25000,93875.4590440793
+Es Teh,Magelang,Sore,5,25000,117269.52767660106
+Cappuccino,Yogyakarta,Sore,3,30000,77505.60485996408
+Americano,Semarang,Pagi,1,15000,15887.94744181109
+Roti Bakar,Yogyakarta,Sore,5,18000,98550.00279462835
+Cappuccino,Magelang,Siang,5,15000,94557.35338122744
+Es Teh,Magelang,Malam,1,20000,28578.364452946043
+Kopi Susu,Semarang,Malam,4,30000,110197.31334205242
+Cappuccino,Semarang,Malam,5,15000,75539.56144211533
+Cappuccino,Magelang,Pagi,1,20000,30397.523821379873
+Kentang Goreng,Magelang,Sore,5,20000,96971.94704530308
+Kentang Goreng,Yogyakarta,Siang,3,18000,46643.86306756636
+Kopi Susu,Yogyakarta,Pagi,1,22000,14463.172260877906
+Cappuccino,Yogyakarta,Sore,2,30000,65469.200631189786
+Roti Bakar,Magelang,Pagi,5,15000,56882.30224973163
+Es Teh,Magelang,Pagi,1,25000,17023.481738589544
+Kopi Susu,Yogyakarta,Pagi,5,22000,112689.00864658163
+Americano,Semarang,Pagi,4,18000,87899.94468375953
+Kentang Goreng,Yogyakarta,Siang,1,15000,12914.994447954969
+Kopi Susu,Magelang,Malam,3,30000,87206.90929199783
+Kopi Susu,Yogyakarta,Malam,5,30000,151518.44077811725
+Cappuccino,Magelang,Siang,5,25000,120830.97908700602
+Cappuccino,Magelang,Siang,2,15000,32481.81108722248
+Americano,Magelang,Pagi,3,25000,81672.62071769623
+Kentang Goreng,Yogyakarta,Sore,1,20000,30545.51970053597
+Es Teh,Semarang,Siang,4,30000,120684.91052726403
+Kopi Susu,Yogyakarta,Malam,5,15000,58292.93091104187
+Es Teh,Semarang,Pagi,1,25000,41451.52862558038
+Cappuccino,Yogyakarta,Sore,3,18000,61772.176388539774
+Cappuccino,Magelang,Siang,3,20000,60680.057192891945
+Americano,Semarang,Pagi,4,15000,65262.87509199344
+Kentang Goreng,Yogyakarta,Sore,5,18000,97021.56381376242
+Cappuccino,Magelang,Pagi,5,25000,130448.58589239726
+Kentang Goreng,Magelang,Malam,1,22000,22967.442975233665
+Cappuccino,Magelang,Pagi,1,25000,23307.234180628766
+Roti Bakar,Magelang,Malam,2,15000,28261.912926057084
+Es Teh,Yogyakarta,Siang,1,20000,27145.76551977058
+Americano,Magelang,Malam,4,22000,102174.09100317833
+Americano,Yogyakarta,Malam,1,25000,24589.74811469895
+Es Teh,Yogyakarta,Pagi,3,30000,86625.83164332334
+Kentang Goreng,Magelang,Pagi,5,22000,102276.66303851343
+Kentang Goreng,Yogyakarta,Malam,2,20000,44169.71015271225
+Cappuccino,Yogyakarta,Sore,2,30000,53723.63374809544
+Kopi Susu,Magelang,Sore,1,15000,20357.085447725633
+Americano,Yogyakarta,Siang,3,22000,75963.57290013778
+Kentang Goreng,Magelang,Pagi,3,22000,66338.92313102732
+Cappuccino,Yogyakarta,Siang,4,20000,70196.55723664547
+Americano,Semarang,Malam,2,25000,60049.12292261085
+Kentang Goreng,Magelang,Siang,4,22000,89464.32391477561
+Cappuccino,Semarang,Siang,4,15000,65239.2680118768
+Roti Bakar,Yogyakarta,Pagi,5,22000,103072.10497217254
+Roti Bakar,Yogyakarta,Siang,3,15000,29888.595157252545
+Kopi Susu,Magelang,Siang,2,20000,45348.55736428691
+Es Teh,Yogyakarta,Siang,5,30000,155589.21588383807
+Kopi Susu,Yogyakarta,Pagi,4,15000,60558.634865185646
+Americano,Magelang,Pagi,4,20000,86874.15836101548
+Americano,Yogyakarta,Malam,5,20000,96546.87500869716
+Kentang Goreng,Semarang,Malam,2,15000,37040.98126325197
+Cappuccino,Semarang,Malam,1,18000,10938.935998257517
+Kentang Goreng,Yogyakarta,Siang,1,30000,31063.5951944157
+Es Teh,Magelang,Pagi,5,15000,69763.81961083363
+Kentang Goreng,Semarang,Malam,2,25000,61988.977175031236
+Cappuccino,Yogyakarta,Sore,5,15000,72903.15854095221
+Kentang Goreng,Magelang,Malam,5,20000,89722.08724911418
+Americano,Semarang,Sore,2,22000,55092.678278143445
+Roti Bakar,Yogyakarta,Siang,1,15000,27247.35793220682
+Kopi Susu,Yogyakarta,Siang,2,18000,28630.073215531076
+Roti Bakar,Yogyakarta,Siang,2,30000,56307.16123081775
+Es Teh,Magelang,Pagi,1,25000,17928.113639148476
+Roti Bakar,Magelang,Sore,2,22000,31635.88359448192
+Kentang Goreng,Semarang,Pagi,4,18000,51707.13805777448
+Cappuccino,Magelang,Malam,2,30000,55941.38314015947
+Es Teh,Magelang,Siang,4,20000,80911.14063946868
+Kopi Susu,Semarang,Siang,5,20000,91053.72540854622
+Cappuccino,Yogyakarta,Siang,5,15000,73254.11625603124
+Es Teh,Magelang,Malam,4,22000,76339.17072982153
+Roti Bakar,Semarang,Sore,1,18000,28132.395929899707
+Kentang Goreng,Magelang,Malam,1,25000,21974.936204784513
+Es Teh,Semarang,Pagi,3,20000,70461.15345889133
+Es Teh,Semarang,Pagi,3,18000,62174.99165752428
+Es Teh,Yogyakarta,Siang,2,30000,69295.92565025677
+Kentang Goreng,Semarang,Pagi,1,20000,21048.469086293902
+Kentang Goreng,Semarang,Malam,1,22000,24028.73962191551
+Kopi Susu,Yogyakarta,Malam,3,25000,59798.21638421419
+Americano,Magelang,Pagi,3,15000,39985.56618580979
+Cappuccino,Semarang,Pagi,2,18000,42075.45612480199
+Roti Bakar,Semarang,Pagi,4,20000,83295.55915930701
+Es Teh,Semarang,Sore,4,18000,55021.81175426114
+Es Teh,Magelang,Sore,5,22000,121285.58037679616
+Kopi Susu,Magelang,Malam,4,18000,60231.310523907036
+Americano,Magelang,Siang,1,25000,27366.399215482557
+Americano,Semarang,Malam,2,15000,20543.451762150155
+Americano,Semarang,Siang,4,25000,122934.33345291748
+Cappuccino,Semarang,Sore,2,22000,35454.83476070067
+Roti Bakar,Yogyakarta,Pagi,4,18000,72680.11731040475
+Americano,Semarang,Malam,3,30000,88852.33885274686
+Es Teh,Magelang,Sore,2,25000,46409.785774986696
+Kopi Susu,Yogyakarta,Pagi,5,30000,143993.65803848687
+Roti Bakar,Semarang,Pagi,5,30000,140385.44200482633
+Roti Bakar,Semarang,Sore,5,25000,140901.48942751603
+Kentang Goreng,Magelang,Malam,3,20000,53480.55301298952
+Roti Bakar,Semarang,Pagi,5,22000,103090.01300315559
+Es Teh,Magelang,Malam,2,18000,29181.694447800895
+Americano,Semarang,Pagi,2,22000,57662.56010959781
+Kentang Goreng,Yogyakarta,Sore,2,25000,49349.93848364784
+Kopi Susu,Yogyakarta,Malam,1,18000,19615.89648501171
+Cappuccino,Magelang,Malam,3,18000,57857.0288061516
+Americano,Semarang,Malam,4,15000,38136.90615387201
+Kentang Goreng,Semarang,Siang,2,30000,69588.23182983865
+Es Teh,Magelang,Siang,1,15000,20086.772248422345
+Cappuccino,Magelang,Sore,1,18000,15788.196989207356
+Kentang Goreng,Magelang,Malam,2,18000,27197.308170083073
+Roti Bakar,Yogyakarta,Sore,3,25000,78956.7577996684
+Kentang Goreng,Semarang,Pagi,5,18000,81360.65233158969
+Kentang Goreng,Magelang,Siang,1,18000,22038.409959588913
+Kopi Susu,Magelang,Pagi,4,20000,69436.96229243932
+Es Teh,Magelang,Siang,5,15000,87000.10644194981
+Kentang Goreng,Yogyakarta,Pagi,5,30000,157206.2051952055
+Kentang Goreng,Magelang,Malam,3,15000,47595.136536920734
+Kopi Susu,Yogyakarta,Siang,4,30000,124263.13409185028
+Cappuccino,Magelang,Malam,4,25000,101249.6638768088
+Cappuccino,Yogyakarta,Malam,5,18000,95734.71672918086
+Americano,Yogyakarta,Malam,2,18000,36711.00542578084
+Cappuccino,Magelang,Malam,2,18000,39044.077841799175
+Cappuccino,Semarang,Siang,4,18000,70927.98412809314
+Kopi Susu,Yogyakarta,Sore,2,25000,49548.275442882106
+Kopi Susu,Semarang,Sore,2,15000,25040.673142537147
+Roti Bakar,Magelang,Pagi,4,18000,74841.60485924188
+Kopi Susu,Magelang,Siang,5,18000,83902.73705204428
+Roti Bakar,Semarang,Malam,3,20000,58205.93179941473
+Cappuccino,Yogyakarta,Sore,3,20000,64806.57734660071
+Roti Bakar,Yogyakarta,Siang,5,22000,106171.8269555016
+Es Teh,Magelang,Siang,5,15000,80089.22226305938
+Roti Bakar,Yogyakarta,Malam,4,25000,96193.18231995063
+Es Teh,Yogyakarta,Siang,3,25000,69536.63503842278
+Es Teh,Semarang,Malam,3,22000,55259.49004269974
+Cappuccino,Magelang,Sore,1,22000,30038.009655398535
+Cappuccino,Semarang,Malam,4,15000,70338.42692163878
+Americano,Magelang,Siang,2,30000,66900.3836581082
+Roti Bakar,Magelang,Siang,4,15000,62432.33728537052
+Kopi Susu,Semarang,Pagi,3,15000,48128.598754218576
+Kentang Goreng,Magelang,Siang,2,18000,31227.738986282784
+Cappuccino,Semarang,Malam,3,20000,66641.00210733736
+Cappuccino,Magelang,Sore,2,22000,47344.88641304362
+Roti Bakar,Yogyakarta,Sore,3,18000,51146.279907568634
+Americano,Magelang,Malam,2,20000,33948.01467400494
+Roti Bakar,Magelang,Sore,4,30000,131934.65509727324
+Roti Bakar,Magelang,Pagi,4,22000,76296.81103370404
+Cappuccino,Semarang,Malam,2,15000,26930.35029054168
+Kopi Susu,Semarang,Siang,1,22000,12844.091637123638
+Kopi Susu,Semarang,Siang,2,15000,35979.12747799698
+Es Teh,Yogyakarta,Siang,4,15000,67103.45878691859
+Es Teh,Yogyakarta,Sore,1,30000,24045.143551486963
+Kentang Goreng,Semarang,Siang,5,30000,149367.06632548373
+Americano,Magelang,Pagi,1,15000,19459.562691006147
+Americano,Magelang,Pagi,1,20000,24335.698215259774
+Kopi Susu,Yogyakarta,Siang,4,15000,57785.63534449967
+Kopi Susu,Yogyakarta,Pagi,4,25000,95242.01577485523
+Americano,Magelang,Siang,3,25000,85063.44411076301
+Es Teh,Semarang,Pagi,3,25000,73790.87983541779
+Americano,Magelang,Sore,4,20000,92275.74332422405
+Americano,Magelang,Siang,4,30000,110233.0940289261
+Roti Bakar,Yogyakarta,Malam,1,25000,27049.98809178624
+Es Teh,Magelang,Malam,3,22000,73401.06558265035
+Kopi Susu,Yogyakarta,Sore,1,15000,18713.714985510225
+Americano,Yogyakarta,Sore,5,30000,163496.06004359986
+Americano,Yogyakarta,Malam,3,15000,44893.63644902369
+Cappuccino,Magelang,Sore,2,20000,30846.72212625871
+Americano,Magelang,Siang,1,18000,19477.97002961815
+Cappuccino,Yogyakarta,Siang,5,22000,122252.38768480434
+Cappuccino,Semarang,Malam,5,15000,66646.68081875403
+Cappuccino,Yogyakarta,Pagi,4,20000,83333.30987671415
+Roti Bakar,Magelang,Sore,5,20000,101706.75701529194
+Es Teh,Semarang,Malam,4,22000,86165.74758843746
+Cappuccino,Magelang,Sore,5,15000,70373.49228371019
+Roti Bakar,Semarang,Pagi,4,18000,64585.65612356813
+Cappuccino,Semarang,Malam,1,30000,41159.87455617427
+Kentang Goreng,Yogyakarta,Pagi,3,22000,64646.84953653721
+Cappuccino,Magelang,Malam,2,22000,51619.79479480036
+Kopi Susu,Yogyakarta,Pagi,5,22000,95546.98920518011
+Es Teh,Yogyakarta,Siang,4,18000,55848.98350641502
+Roti Bakar,Yogyakarta,Sore,1,25000,13010.869228073501
+Cappuccino,Magelang,Sore,4,18000,72854.85242937293
+Es Teh,Semarang,Sore,2,15000,26396.93562180831
+Kentang Goreng,Magelang,Malam,4,30000,120663.64559919582
+Kopi Susu,Yogyakarta,Siang,1,18000,22280.222044819246
+Es Teh,Magelang,Siang,2,18000,32001.899946333415
+Roti Bakar,Yogyakarta,Malam,5,15000,67305.62907167169
+Kentang Goreng,Yogyakarta,Pagi,2,20000,44683.77921304429
+Americano,Semarang,Malam,3,22000,63836.53781775714
+Americano,Magelang,Malam,1,25000,21236.0956379149
+Cappuccino,Yogyakarta,Malam,2,20000,20217.435607417927
+Cappuccino,Yogyakarta,Malam,1,30000,39882.69670981566
+Kentang Goreng,Magelang,Sore,1,15000,17897.38986636312
+Kentang Goreng,Semarang,Pagi,4,15000,55874.002522781644
+Kopi Susu,Yogyakarta,Sore,5,15000,85624.79626818912
+Kentang Goreng,Yogyakarta,Malam,5,30000,152154.30813678628
+Kentang Goreng,Semarang,Sore,3,22000,57217.352790346864
+Kentang Goreng,Magelang,Siang,2,20000,35875.18867672581
+Americano,Magelang,Pagi,3,20000,59945.83717759716
+Kentang Goreng,Yogyakarta,Malam,3,15000,46586.50452792232
+Kentang Goreng,Yogyakarta,Sore,3,30000,101484.06480387898
+Americano,Yogyakarta,Pagi,5,22000,100377.80097291779
+Americano,Magelang,Malam,2,25000,64244.24176957627
+Americano,Yogyakarta,Pagi,3,30000,84273.186003873
+Cappuccino,Semarang,Siang,4,30000,124625.39249191029
+Americano,Magelang,Siang,2,25000,59029.7218561451
+Es Teh,Magelang,Malam,2,20000,35730.536979194825
+Roti Bakar,Yogyakarta,Malam,1,20000,26774.226366003106
+Es Teh,Yogyakarta,Sore,4,25000,106244.71520776197
+Americano,Magelang,Pagi,5,20000,91878.46794382103
+Americano,Yogyakarta,Malam,5,25000,142829.9877224259
+Kentang Goreng,Yogyakarta,Malam,1,22000,13607.734797002367
+Cappuccino,Magelang,Malam,5,18000,88721.33963323211
+Es Teh,Yogyakarta,Malam,1,20000,9872.90331869197
+Cappuccino,Yogyakarta,Sore,3,20000,65899.11258321822
+Roti Bakar,Magelang,Siang,3,15000,50738.161176315596
+Cappuccino,Yogyakarta,Sore,5,25000,128239.16616992187
+Cappuccino,Yogyakarta,Malam,4,20000,71883.30444522193
+Kentang Goreng,Yogyakarta,Sore,4,25000,99560.02358944628
+Roti Bakar,Yogyakarta,Sore,5,30000,154515.75146518453
+Kentang Goreng,Yogyakarta,Pagi,1,20000,19637.044222152028
+Cappuccino,Magelang,Siang,5,15000,74834.13852456547
+Kopi Susu,Magelang,Sore,1,22000,22177.931790277784
+Americano,Yogyakarta,Pagi,4,18000,74438.80662374862
+Kentang Goreng,Semarang,Siang,1,25000,19421.21230281783
+Kopi Susu,Semarang,Malam,2,18000,40195.904328076635
+Kopi Susu,Magelang,Sore,3,30000,92186.3384426195
+Cappuccino,Semarang,Pagi,3,18000,37511.0039892004
+Es Teh,Magelang,Siang,1,25000,32636.292481933495
+Cappuccino,Semarang,Sore,3,15000,41660.028362738085
+Cappuccino,Yogyakarta,Malam,5,25000,121318.16650742549
+Kopi Susu,Yogyakarta,Pagi,4,18000,82894.58990185111
+Es Teh,Yogyakarta,Siang,2,18000,26026.004230682287
+Cappuccino,Semarang,Sore,3,25000,78405.96386458294
+Kentang Goreng,Semarang,Malam,1,20000,22016.679688723478
+Americano,Yogyakarta,Siang,2,22000,47844.35886431518
+Cappuccino,Semarang,Siang,1,20000,18393.193359572193
+Es Teh,Yogyakarta,Malam,2,30000,62686.96554688944
+Es Teh,Semarang,Sore,5,30000,148647.44352983078
+Kopi Susu,Yogyakarta,Pagi,1,22000,22319.317376998653
+Cappuccino,Magelang,Siang,2,18000,35075.484424766015
+Roti Bakar,Semarang,Siang,4,30000,124260.30052234617
+Americano,Semarang,Sore,1,18000,19952.00194367444
+Es Teh,Semarang,Siang,1,15000,7683.056374030862
+Americano,Semarang,Malam,1,20000,18273.64613396571
+Americano,Semarang,Siang,1,15000,14799.597428472707
+Americano,Yogyakarta,Sore,4,20000,70998.47820594104
+Roti Bakar,Semarang,Siang,4,22000,77718.1946111466
+Roti Bakar,Yogyakarta,Siang,4,25000,88130.71697741271
+Kentang Goreng,Yogyakarta,Siang,3,18000,57047.15854223553
+Cappuccino,Magelang,Sore,5,15000,69815.37005676403
+Kentang Goreng,Semarang,Pagi,1,18000,11507.196899805189
+Cappuccino,Magelang,Pagi,2,20000,47052.31624718675
+Kentang Goreng,Magelang,Siang,5,15000,69830.8564068474
+Es Teh,Semarang,Siang,1,18000,8254.501509522912
+Kopi Susu,Magelang,Pagi,1,18000,12115.330796280556
+Es Teh,Semarang,Malam,5,25000,133073.41324100486
+Americano,Yogyakarta,Siang,2,15000,38178.28110070419
+Kentang Goreng,Yogyakarta,Pagi,4,20000,81853.87711549479
+Kentang Goreng,Yogyakarta,Sore,2,25000,41765.6236032315
+Es Teh,Yogyakarta,Pagi,5,18000,92456.26820956619
+Es Teh,Semarang,Siang,4,30000,136333.8325736757
+Kopi Susu,Yogyakarta,Sore,1,20000,24918.895345359226
+Kentang Goreng,Semarang,Sore,2,18000,47401.51516390528
+Es Teh,Yogyakarta,Malam,4,22000,82790.18099984832
+Roti Bakar,Semarang,Malam,5,18000,80924.17051145724
+Kentang Goreng,Semarang,Siang,1,25000,21997.74490689346
+Americano,Magelang,Sore,1,15000,7193.179872943579
+Cappuccino,Magelang,Siang,2,22000,49005.75728359481
+Cappuccino,Semarang,Siang,5,18000,100059.50174707708
+Roti Bakar,Yogyakarta,Malam,5,22000,113559.32312857948
+Cappuccino,Magelang,Pagi,2,25000,46098.32137221316
+Kopi Susu,Semarang,Sore,1,25000,26062.32183048694
+Americano,Magelang,Siang,3,15000,44565.256420356774
+Es Teh,Magelang,Malam,2,22000,30675.670182733473
+Kopi Susu,Magelang,Siang,4,22000,83092.16144318607
+Cappuccino,Magelang,Pagi,5,30000,154450.82352996434
+Cappuccino,Magelang,Siang,5,25000,115809.0566235149
+Es Teh,Semarang,Malam,2,20000,31160.451982114944
+Kopi Susu,Yogyakarta,Pagi,1,30000,27826.790495310466
+Kopi Susu,Semarang,Malam,1,25000,17303.77292437123
+Es Teh,Yogyakarta,Sore,3,22000,56151.78944370049
+Cappuccino,Yogyakarta,Siang,3,18000,57313.39291780176
+Kopi Susu,Semarang,Malam,3,18000,55396.66547756774
+Kentang Goreng,Magelang,Pagi,2,15000,24368.368103986177
+Es Teh,Yogyakarta,Malam,3,20000,64203.342424592076
+Roti Bakar,Semarang,Malam,3,20000,58373.03552737404
+Kopi Susu,Magelang,Malam,2,25000,47555.11784026464
+Kopi Susu,Yogyakarta,Malam,2,18000,27839.31607239566
+Roti Bakar,Yogyakarta,Malam,2,18000,26024.0643305484
+Kopi Susu,Magelang,Malam,3,22000,70721.80349313801
+Es Teh,Magelang,Malam,2,30000,59657.75636828973
+Kopi Susu,Magelang,Siang,3,18000,58816.83141622492
+Cappuccino,Semarang,Siang,4,22000,81678.22370472053
+Americano,Yogyakarta,Sore,4,30000,119235.08359617782
+Cappuccino,Yogyakarta,Sore,3,30000,98565.18849238378
+Kentang Goreng,Yogyakarta,Siang,5,30000,139066.45078909866
+Americano,Semarang,Pagi,4,22000,90043.27567881606
+Roti Bakar,Semarang,Sore,5,15000,91426.84616128399
+Americano,Yogyakarta,Sore,3,25000,87831.91104000641
+Kopi Susu,Magelang,Pagi,5,22000,119918.06716987537
+Kopi Susu,Yogyakarta,Sore,2,20000,46258.65331668954
+Americano,Semarang,Pagi,2,18000,55405.856666365835
+Americano,Semarang,Siang,1,15000,8487.339351237722
+Es Teh,Semarang,Sore,1,18000,16029.502752921375
+Cappuccino,Magelang,Malam,2,22000,38606.06485520238
+Kentang Goreng,Magelang,Malam,1,22000,32102.25617938803
+Kopi Susu,Semarang,Pagi,3,30000,87957.66970561375
+Roti Bakar,Semarang,Malam,3,30000,105626.47312822157
+Es Teh,Semarang,Siang,4,25000,108699.40912830643
+Kentang Goreng,Semarang,Siang,2,15000,25682.984385587777
+Americano,Magelang,Malam,4,25000,88793.0353183794
+Americano,Semarang,Siang,2,20000,43793.12018364934
+Americano,Magelang,Siang,5,30000,143434.15929735664
+Es Teh,Magelang,Sore,4,20000,85348.39938361815
+Kopi Susu,Magelang,Pagi,1,18000,3485.233998787364
+Roti Bakar,Semarang,Pagi,1,22000,32434.884664587138
+Kopi Susu,Semarang,Pagi,1,18000,20035.25065912253
+Es Teh,Yogyakarta,Sore,2,18000,43267.5895559725
+Kentang Goreng,Semarang,Malam,2,22000,39385.81616261177
+Roti Bakar,Semarang,Siang,4,25000,112215.75004320605
+Roti Bakar,Yogyakarta,Malam,1,25000,16634.64916263878
+Roti Bakar,Yogyakarta,Malam,3,20000,77819.25535131138
+Es Teh,Magelang,Pagi,4,30000,114095.91754240234
+Es Teh,Magelang,Pagi,5,25000,128483.93517504733
+Roti Bakar,Yogyakarta,Sore,2,25000,43030.2154616559
+Americano,Semarang,Malam,2,25000,38091.877395221505
+Roti Bakar,Semarang,Siang,3,18000,60515.40708396032
+Kentang Goreng,Magelang,Malam,2,20000,20405.229186954915
+Americano,Yogyakarta,Malam,3,20000,45907.28322199454
+Kentang Goreng,Magelang,Sore,2,30000,65008.69372779155
+Kopi Susu,Semarang,Malam,3,20000,64345.940225894934
+Kopi Susu,Yogyakarta,Pagi,4,30000,123004.34269830998
+Kentang Goreng,Semarang,Siang,3,15000,27069.26032953812
+Kentang Goreng,Yogyakarta,Pagi,4,20000,85734.36388755444
+Cappuccino,Semarang,Pagi,2,22000,41431.93609716357
+Americano,Semarang,Pagi,1,18000,1628.6364064545542
+Roti Bakar,Magelang,Siang,3,18000,60429.62924574535
+Roti Bakar,Yogyakarta,Malam,4,20000,83533.99021521494
+Kentang Goreng,Magelang,Pagi,3,15000,43559.054809038906
+Americano,Magelang,Sore,3,15000,55442.90135925131
+Americano,Yogyakarta,Pagi,5,25000,129557.85152179847
+Roti Bakar,Semarang,Malam,5,30000,146901.14570875268
+Roti Bakar,Magelang,Malam,5,15000,71350.92993483788
+Kopi Susu,Yogyakarta,Pagi,4,22000,76353.0161528848
+Es Teh,Yogyakarta,Malam,4,25000,102097.94143305649
+Cappuccino,Semarang,Malam,1,20000,23881.423859288672
+Cappuccino,Yogyakarta,Pagi,2,22000,49035.83278011467
+Kentang Goreng,Yogyakarta,Sore,5,20000,99552.10927232144
+Es Teh,Yogyakarta,Sore,5,15000,79574.09933345074
+Kentang Goreng,Yogyakarta,Sore,2,22000,36699.86212534293
+Cappuccino,Magelang,Sore,5,30000,163957.68151664536
+Es Teh,Semarang,Malam,5,20000,94275.52932778465
+Es Teh,Semarang,Pagi,2,22000,38313.96736071649
+Es Teh,Yogyakarta,Malam,1,22000,32043.51200070951
+Kopi Susu,Semarang,Sore,4,30000,111960.84863590187
+Es Teh,Magelang,Siang,4,30000,110557.6466719767
+Es Teh,Yogyakarta,Siang,3,25000,73265.08596023114
+Roti Bakar,Semarang,Sore,5,15000,78470.88095127797
+Kentang Goreng,Yogyakarta,Pagi,3,30000,82325.3484501234
+Es Teh,Yogyakarta,Malam,2,18000,31358.869648489865
+Es Teh,Magelang,Malam,1,22000,9049.215702091768
+Roti Bakar,Semarang,Malam,2,18000,39037.749244806895
+Kentang Goreng,Yogyakarta,Sore,4,18000,62839.08919026174
+Es Teh,Magelang,Sore,3,18000,48862.055840647234
+Americano,Magelang,Malam,3,18000,52934.49275776987
+Roti Bakar,Semarang,Siang,3,22000,70834.06047643039
+Americano,Semarang,Malam,1,22000,27824.3395371063
+Roti Bakar,Magelang,Pagi,1,25000,23507.72365253013
+Kopi Susu,Magelang,Sore,3,18000,58042.18758445919
+Kopi Susu,Semarang,Siang,1,25000,21142.169622400783
+Cappuccino,Magelang,Sore,5,15000,74037.18871228668
+Kentang Goreng,Yogyakarta,Malam,2,15000,31938.287695193696
+Cappuccino,Yogyakarta,Siang,2,15000,33128.58806827808
+Kopi Susu,Magelang,Pagi,1,25000,32877.47599746967
+Americano,Magelang,Malam,5,30000,151976.76259202522
+Americano,Magelang,Malam,1,25000,16710.293614732273
+Es Teh,Semarang,Malam,5,20000,108961.6828069432
+Cappuccino,Magelang,Sore,1,22000,6856.189495651557
+Cappuccino,Magelang,Pagi,3,20000,63137.56983376
+Kopi Susu,Semarang,Sore,1,30000,32548.733191030296
+Cappuccino,Yogyakarta,Siang,3,18000,48186.45754472535
+Roti Bakar,Semarang,Malam,1,30000,24499.883998034617
+Roti Bakar,Yogyakarta,Siang,4,18000,75138.26082271457
+Roti Bakar,Semarang,Siang,4,22000,104816.71501117307
+Es Teh,Magelang,Sore,1,25000,13894.618091683356
+Americano,Semarang,Malam,2,20000,42067.19648635635
+Roti Bakar,Yogyakarta,Malam,3,25000,70006.82811180475
+Kentang Goreng,Yogyakarta,Siang,1,20000,29390.27330448578
+Kopi Susu,Semarang,Malam,3,22000,71208.74378052873
+Roti Bakar,Yogyakarta,Malam,4,20000,87719.6582816073
+Americano,Yogyakarta,Siang,3,30000,89192.64950104804
+Kentang Goreng,Yogyakarta,Pagi,5,20000,111289.25662732893
+Kopi Susu,Yogyakarta,Pagi,1,30000,39031.42288226752
+Americano,Yogyakarta,Pagi,2,18000,36782.43149283285
+Kopi Susu,Magelang,Sore,5,20000,98292.20412088116
+Kentang Goreng,Magelang,Siang,5,22000,101405.01046348062
+Kopi Susu,Semarang,Sore,2,20000,27604.33422885761
+Americano,Semarang,Pagi,5,15000,79146.37828272322
+Kopi Susu,Magelang,Pagi,5,15000,77961.27605638148
+Cappuccino,Semarang,Sore,1,25000,18466.294644092384
+Kentang Goreng,Yogyakarta,Siang,3,15000,36201.82333705188
+Roti Bakar,Magelang,Pagi,5,22000,92225.83105089806
+Roti Bakar,Magelang,Sore,3,18000,66239.23104219294
+Cappuccino,Magelang,Sore,1,22000,16579.161656388344
+Roti Bakar,Semarang,Siang,5,20000,109441.72124702834
+Cappuccino,Yogyakarta,Pagi,2,25000,48808.91962547429
+Roti Bakar,Yogyakarta,Pagi,2,20000,46685.26863407881
+Americano,Magelang,Siang,1,25000,13083.514528070014
+Cappuccino,Yogyakarta,Pagi,2,15000,38398.77543460975
+Cappuccino,Semarang,Pagi,3,30000,88067.29495577174
+Cappuccino,Semarang,Malam,4,18000,77098.87035094206
+Americano,Yogyakarta,Malam,4,30000,110078.29796832438
+Cappuccino,Magelang,Sore,4,25000,98023.88769328252
+Kentang Goreng,Semarang,Malam,2,25000,68103.5636929645
+Kentang Goreng,Yogyakarta,Sore,4,18000,73338.80814001207
+Es Teh,Magelang,Sore,5,18000,100875.91245565572
+Kopi Susu,Magelang,Malam,1,18000,16471.002981793703
+Kopi Susu,Magelang,Pagi,3,20000,70157.82193739056
+Kentang Goreng,Magelang,Malam,1,22000,17563.258614349517
+Cappuccino,Magelang,Siang,3,22000,60541.34096992821
+Es Teh,Semarang,Sore,4,30000,103822.49597107076
+Americano,Magelang,Malam,5,20000,111668.37412933794
+Kopi Susu,Magelang,Pagi,5,22000,113374.64401985728
+Americano,Semarang,Sore,3,20000,58163.25112953822
+Roti Bakar,Magelang,Siang,1,22000,20667.10467890386
+Roti Bakar,Magelang,Malam,2,25000,45835.993029457015
+Cappuccino,Semarang,Sore,5,15000,73223.90066757222
+Kentang Goreng,Semarang,Malam,1,22000,32926.75963963739
+Kopi Susu,Yogyakarta,Pagi,2,30000,63154.99265624284
+Cappuccino,Semarang,Siang,4,30000,132837.83390966157
+Americano,Semarang,Pagi,3,15000,51489.59600734313
+Cappuccino,Magelang,Malam,5,18000,74332.52688242134
+Kentang Goreng,Magelang,Pagi,3,18000,70167.56040320508
+Es Teh,Magelang,Siang,2,25000,43596.99509446878
+Kentang Goreng,Magelang,Sore,2,25000,51945.338882993725
+Kentang Goreng,Yogyakarta,Malam,3,18000,41097.50242198132
+Kopi Susu,Magelang,Siang,4,25000,95603.49685454703
+Kentang Goreng,Semarang,Pagi,2,25000,54119.596081018884
+Es Teh,Magelang,Pagi,1,30000,32858.42378917463
+Kopi Susu,Magelang,Sore,5,15000,70911.82366759324
+Es Teh,Semarang,Pagi,3,30000,88519.78859316584
+Roti Bakar,Yogyakarta,Malam,5,30000,150546.26836546478
+Kentang Goreng,Magelang,Pagi,1,15000,9342.210674137368
+Es Teh,Yogyakarta,Pagi,2,20000,34682.929565122824
+Kopi Susu,Magelang,Siang,2,30000,45730.65340957441
+Cappuccino,Magelang,Sore,3,22000,81029.22090494791
+Cappuccino,Semarang,Malam,1,22000,12988.374031576828
+Americano,Yogyakarta,Siang,4,20000,81074.86431333041
+Cappuccino,Magelang,Malam,1,18000,15056.664982675387
+Kentang Goreng,Magelang,Malam,4,25000,106420.84899993283
+Kentang Goreng,Semarang,Pagi,4,30000,114517.48301066308
+Americano,Semarang,Sore,3,18000,41203.475156839704
+Americano,Yogyakarta,Malam,2,20000,48069.792185747014
+Cappuccino,Semarang,Pagi,5,18000,85693.56244987088
+Roti Bakar,Semarang,Pagi,4,22000,75803.42293535452
+Es Teh,Semarang,Sore,2,15000,37559.74694513525
+Americano,Yogyakarta,Siang,2,20000,41786.203721419064
+Kentang Goreng,Magelang,Malam,1,15000,11209.844625348709
+Americano,Semarang,Sore,2,30000,59976.96259832489
+Roti Bakar,Semarang,Siang,2,30000,43849.7890070395
+Kentang Goreng,Semarang,Malam,1,20000,29514.46254430958
+Kopi Susu,Semarang,Pagi,5,22000,103074.25719267626
+Kopi Susu,Yogyakarta,Siang,5,25000,112399.20553740181
+Kopi Susu,Magelang,Malam,4,20000,96803.56548681349
+Kentang Goreng,Semarang,Pagi,4,20000,105289.38928871778
+Es Teh,Yogyakarta,Malam,2,18000,35501.21361417232
+Kentang Goreng,Semarang,Pagi,5,30000,159883.35942894302
+Kentang Goreng,Semarang,Siang,3,15000,38336.62063159821
+Roti Bakar,Semarang,Siang,2,20000,37777.44421538462
+Cappuccino,Magelang,Sore,4,18000,57300.073244726555
+Americano,Semarang,Malam,4,18000,66358.20578059088
+Americano,Yogyakarta,Sore,3,20000,60258.452266119886
+Kentang Goreng,Magelang,Siang,4,22000,92001.04948635421
+Americano,Semarang,Sore,1,20000,24767.989990241796
+Kopi Susu,Yogyakarta,Siang,4,22000,99525.81172712396
+Roti Bakar,Yogyakarta,Sore,5,20000,103126.28257713634
+Americano,Yogyakarta,Siang,2,25000,52494.14199067882
+Roti Bakar,Yogyakarta,Malam,2,30000,55496.90204778468
+Kentang Goreng,Yogyakarta,Siang,1,15000,24280.018346174103
+Americano,Semarang,Siang,5,20000,113968.2598096185
+Americano,Yogyakarta,Sore,1,30000,31737.197231801274
+Kopi Susu,Magelang,Siang,3,18000,64487.76004617115
+Kentang Goreng,Yogyakarta,Pagi,3,22000,58524.86155090831
+Kentang Goreng,Yogyakarta,Malam,1,15000,15353.844689737172
+Es Teh,Semarang,Siang,3,15000,54920.694520321995
+Americano,Yogyakarta,Malam,1,20000,18373.765602899686
+Roti Bakar,Yogyakarta,Pagi,1,30000,36304.159466334364
+Kopi Susu,Magelang,Malam,2,25000,46017.66269293858
+Americano,Yogyakarta,Sore,2,22000,38043.58517055211
+Roti Bakar,Semarang,Pagi,3,25000,79664.9603917138
+Kopi Susu,Semarang,Malam,4,30000,124314.7653959895
+Roti Bakar,Magelang,Pagi,4,22000,92933.58036032549
+Roti Bakar,Yogyakarta,Malam,5,20000,108470.43698450408
+Es Teh,Magelang,Siang,5,18000,97807.18058099832
+Cappuccino,Semarang,Pagi,4,15000,61497.28088482633
+Roti Bakar,Yogyakarta,Pagi,4,22000,99831.89182438003
+Roti Bakar,Magelang,Malam,2,30000,55861.941449932296
+Es Teh,Magelang,Sore,2,30000,65759.2344132102
+Kopi Susu,Yogyakarta,Sore,1,18000,26020.653508619696
+Kopi Susu,Semarang,Sore,5,15000,76023.76721336285
+Roti Bakar,Yogyakarta,Siang,1,25000,18541.68409723563
+Cappuccino,Yogyakarta,Siang,4,25000,107366.0460701057
+Kentang Goreng,Semarang,Malam,2,22000,61464.543645498896
+Kopi Susu,Semarang,Pagi,3,15000,43973.05660436538
+Americano,Yogyakarta,Sore,5,30000,142325.46767055165
+Cappuccino,Yogyakarta,Malam,2,25000,34898.818376577416
+Cappuccino,Semarang,Sore,5,30000,143516.0387645659
+Roti Bakar,Yogyakarta,Pagi,5,22000,102659.06159130069
+Es Teh,Semarang,Siang,4,15000,61945.39970563791
+Kopi Susu,Semarang,Pagi,4,15000,54345.46530007837
+Roti Bakar,Magelang,Malam,5,15000,74841.56513738955
+Es Teh,Magelang,Pagi,5,15000,75498.32307630271
+Cappuccino,Semarang,Malam,5,15000,74808.74854817815
+Roti Bakar,Yogyakarta,Sore,1,18000,-727.6849386205758
+Kopi Susu,Yogyakarta,Pagi,2,20000,38313.25974611066
+Es Teh,Yogyakarta,Siang,3,20000,58977.7368236459
+Kopi Susu,Yogyakarta,Pagi,1,15000,23792.346294071947
+Kopi Susu,Semarang,Sore,1,22000,14235.63334058231
+Kopi Susu,Magelang,Siang,5,22000,118482.3274479082
+Es Teh,Magelang,Malam,5,22000,120615.14707909193
+Es Teh,Yogyakarta,Malam,3,30000,79956.49220305399
+Cappuccino,Yogyakarta,Malam,4,25000,86685.10046998036
+Roti Bakar,Yogyakarta,Sore,2,20000,52474.680642839434
+Kopi Susu,Semarang,Siang,1,25000,24248.515182795618
+Es Teh,Magelang,Malam,2,20000,39560.97742369996
+Es Teh,Yogyakarta,Malam,1,15000,14435.779262475355
+Cappuccino,Semarang,Sore,3,25000,71779.39715583222
+Kentang Goreng,Magelang,Pagi,1,25000,38815.16140494959
+Es Teh,Yogyakarta,Pagi,1,22000,12347.96713144266
+Es Teh,Yogyakarta,Malam,2,15000,26604.68328317257
+Es Teh,Yogyakarta,Siang,5,15000,72008.95049313322
+Americano,Semarang,Sore,5,25000,105322.5343060114
+Es Teh,Semarang,Pagi,4,20000,79922.86178122732
+Americano,Yogyakarta,Pagi,1,30000,39357.6081513291
+Cappuccino,Yogyakarta,Malam,4,15000,71533.63061131506
+Kentang Goreng,Yogyakarta,Siang,2,15000,23407.847667415903
+Kopi Susu,Magelang,Malam,5,20000,95954.50392600858
+Americano,Semarang,Siang,5,30000,169399.51124561406
+Kentang Goreng,Magelang,Malam,3,25000,91072.46144711318
+Roti Bakar,Yogyakarta,Malam,2,20000,39240.248089488705
+Roti Bakar,Yogyakarta,Siang,5,25000,128854.9932037285
+Cappuccino,Yogyakarta,Sore,4,18000,66806.652150785
+Kopi Susu,Semarang,Sore,2,25000,52435.270412799866
+Kopi Susu,Semarang,Pagi,3,15000,36224.054509290545
+Americano,Semarang,Sore,2,18000,39587.67272192852
+Roti Bakar,Semarang,Pagi,5,15000,84791.7534886047
+Es Teh,Yogyakarta,Pagi,4,25000,109578.06749043404
+Kopi Susu,Yogyakarta,Pagi,4,15000,56811.85725682341
+Es Teh,Magelang,Sore,3,15000,47155.89436013746
+Kopi Susu,Semarang,Pagi,1,30000,33173.36806403586
+Es Teh,Magelang,Pagi,1,20000,13038.917129317968
+Americano,Magelang,Pagi,5,18000,104255.31278891831
+Roti Bakar,Semarang,Siang,2,22000,25857.08854313611
+Es Teh,Magelang,Pagi,3,20000,61516.435414324675
+Kentang Goreng,Semarang,Malam,3,25000,76967.39281650801
+Cappuccino,Yogyakarta,Sore,5,15000,80732.15729781787
+Roti Bakar,Semarang,Siang,3,25000,69990.43535744987
+Cappuccino,Semarang,Pagi,1,20000,27327.58656334664
+Cappuccino,Magelang,Pagi,5,22000,128584.17848385425
+Roti Bakar,Magelang,Sore,4,30000,118702.20555707828
+Es Teh,Yogyakarta,Pagi,1,22000,28013.009004239026
+Kopi Susu,Yogyakarta,Sore,2,18000,48717.49721603055
+Es Teh,Semarang,Pagi,3,15000,35077.61531953851
+Kentang Goreng,Magelang,Malam,4,30000,115343.63993989544
+Es Teh,Semarang,Siang,1,20000,15742.83642883573
+Kentang Goreng,Magelang,Siang,4,15000,57986.63436688395
+Kentang Goreng,Magelang,Pagi,1,20000,16711.30770750522
+Es Teh,Semarang,Malam,5,20000,89832.5818376207
+Americano,Yogyakarta,Malam,2,30000,58929.19933861829
+Kentang Goreng,Semarang,Sore,4,20000,85147.01856574962
+Cappuccino,Semarang,Malam,2,18000,30049.73766533706
+Kentang Goreng,Yogyakarta,Malam,4,20000,89552.30195847273
+Kentang Goreng,Yogyakarta,Sore,5,20000,88462.35133600965
+Americano,Magelang,Pagi,2,30000,73842.64420790318
+Roti Bakar,Yogyakarta,Malam,2,30000,52648.2265947959
+Cappuccino,Yogyakarta,Pagi,2,18000,22971.561295689862
+Americano,Magelang,Pagi,4,22000,95663.3347901574
+Es Teh,Magelang,Malam,4,18000,76330.85632263898
+Roti Bakar,Magelang,Pagi,2,20000,41480.63993046097
+Roti Bakar,Semarang,Siang,2,25000,45196.67584212343
+Americano,Yogyakarta,Sore,1,30000,20060.52107528798
+Cappuccino,Yogyakarta,Sore,1,30000,30526.530307223715
+Cappuccino,Yogyakarta,Sore,3,30000,90520.05664683928
+Roti Bakar,Magelang,Sore,2,30000,64845.96215389412
+Cappuccino,Magelang,Siang,5,30000,166900.4515244783
+Es Teh,Magelang,Pagi,1,30000,21067.177997726336
+Cappuccino,Semarang,Malam,5,25000,121697.5997723329
+Kopi Susu,Semarang,Siang,2,20000,31747.003615517875
+Cappuccino,Semarang,Siang,4,30000,122710.47722529464
+Roti Bakar,Semarang,Malam,3,30000,78616.49384219387
+Kentang Goreng,Magelang,Sore,2,15000,43913.577907694336
+Roti Bakar,Yogyakarta,Siang,5,15000,73976.79779373019
+Kopi Susu,Semarang,Sore,4,15000,56200.20530661521
+Roti Bakar,Semarang,Siang,2,25000,49373.492636729745
+Cappuccino,Magelang,Malam,5,22000,129414.27406046588
+Cappuccino,Magelang,Pagi,2,22000,34180.74312037021
+Roti Bakar,Semarang,Malam,3,30000,86848.92309257195
+Roti Bakar,Yogyakarta,Pagi,5,25000,114717.29036388348
+Es Teh,Semarang,Sore,4,30000,128517.59923820767
+Roti Bakar,Yogyakarta,Pagi,4,22000,102333.31574379721
+Es Teh,Yogyakarta,Pagi,4,30000,115903.1751153339
+Roti Bakar,Magelang,Pagi,5,18000,81426.62449261708
+Kopi Susu,Magelang,Pagi,5,30000,139307.86591705246
+Es Teh,Semarang,Pagi,2,18000,25640.35512520267
+Americano,Magelang,Siang,5,18000,78820.82034839345
+Es Teh,Semarang,Malam,2,15000,45846.00806662065
+Americano,Magelang,Siang,2,30000,81977.40273422694
+Kentang Goreng,Yogyakarta,Sore,3,18000,60510.927419484375
+Cappuccino,Semarang,Pagi,1,20000,17652.18628627381
+Kentang Goreng,Magelang,Malam,5,25000,139971.58159605056
+Kentang Goreng,Magelang,Malam,1,15000,13058.190646873627
+Es Teh,Semarang,Malam,3,15000,38866.38633756545
+Es Teh,Semarang,Sore,4,20000,80480.35214660973
+Es Teh,Yogyakarta,Sore,5,20000,108143.51230072642
+Es Teh,Magelang,Siang,1,30000,39940.49985481132
+Kentang Goreng,Semarang,Sore,4,22000,86734.98170101663
+Americano,Semarang,Sore,3,25000,79693.38250025426
+Es Teh,Semarang,Malam,4,18000,75662.16527624695
+Kopi Susu,Semarang,Pagi,3,30000,92952.71135974294
+Cappuccino,Yogyakarta,Pagi,2,15000,31554.81437201666
+Americano,Yogyakarta,Malam,4,15000,71525.39240063688
+Roti Bakar,Semarang,Sore,5,22000,108815.76531357288
+Es Teh,Magelang,Sore,2,30000,69479.12956751455
+Kopi Susu,Semarang,Sore,5,20000,103610.36558368991
+Kentang Goreng,Semarang,Siang,5,15000,58145.08715507049
+Kentang Goreng,Semarang,Sore,2,25000,55296.19338879954
+Kopi Susu,Magelang,Malam,4,18000,64326.69994107785
+Kopi Susu,Semarang,Pagi,3,22000,68841.9797852913
+Kopi Susu,Semarang,Siang,5,20000,96859.25889334186
+Kopi Susu,Yogyakarta,Malam,5,20000,86766.3423284947
+Cappuccino,Yogyakarta,Siang,5,22000,91227.08906794093
+Roti Bakar,Magelang,Pagi,4,20000,93683.19386888805
+Americano,Yogyakarta,Sore,1,30000,31547.066416780854
+Roti Bakar,Magelang,Pagi,5,25000,127023.94533919405
+Cappuccino,Yogyakarta,Pagi,5,25000,117752.3045157745
+Kopi Susu,Yogyakarta,Malam,3,18000,46686.6583880251
+Kentang Goreng,Magelang,Siang,1,22000,28566.368331268906
+Cappuccino,Yogyakarta,Malam,1,30000,22894.03998201135
+Kopi Susu,Magelang,Siang,4,15000,56985.3696322734
+Americano,Yogyakarta,Pagi,4,20000,78095.08154264702
+Es Teh,Magelang,Sore,4,22000,89603.33298527803
+Es Teh,Yogyakarta,Pagi,5,20000,100760.38633236916
+Cappuccino,Semarang,Siang,5,15000,83984.38181820673
+Americano,Semarang,Malam,3,30000,88642.35093889896
+Cappuccino,Yogyakarta,Siang,4,15000,65815.0763387763
+Cappuccino,Magelang,Siang,2,20000,45927.28729438363
+Es Teh,Magelang,Pagi,2,18000,26380.378716155763
+Kentang Goreng,Magelang,Sore,1,18000,8795.593142582231
+Es Teh,Yogyakarta,Siang,4,18000,83127.9340804616
+Cappuccino,Yogyakarta,Sore,3,25000,65513.28522861386
+Americano,Magelang,Sore,5,18000,106115.14870562096
+Es Teh,Magelang,Malam,4,15000,68073.05605140029
+Kopi Susu,Yogyakarta,Malam,4,25000,99293.29011833697
+Americano,Yogyakarta,Siang,5,25000,141628.76848094576
+Es Teh,Yogyakarta,Sore,4,15000,65103.09548697592
+Es Teh,Magelang,Siang,4,25000,104957.03226839575
+Kentang Goreng,Semarang,Pagi,3,20000,64152.00332489962
+Es Teh,Semarang,Malam,1,18000,13560.726797117291
+Es Teh,Semarang,Sore,4,22000,84058.25123577908
+Americano,Yogyakarta,Pagi,5,18000,89078.49239515272
+Cappuccino,Magelang,Pagi,3,20000,64464.69158984604
+Kentang Goreng,Magelang,Siang,4,30000,115325.43439388732
+Americano,Yogyakarta,Malam,2,20000,35937.34370774855
+Es Teh,Magelang,Siang,5,20000,113177.27339106091
+Cappuccino,Semarang,Sore,5,25000,136620.3540301966
+Cappuccino,Semarang,Pagi,4,25000,97466.8043587374
+Americano,Magelang,Pagi,5,15000,63681.47289874403
+Roti Bakar,Yogyakarta,Pagi,3,30000,86383.89614144278
+Kopi Susu,Yogyakarta,Malam,2,25000,50895.59252692216
+Cappuccino,Yogyakarta,Pagi,3,30000,87102.28429426615
+Cappuccino,Magelang,Pagi,4,15000,69613.33110023387
+Kentang Goreng,Magelang,Malam,1,20000,14424.31080222426
+Americano,Magelang,Pagi,2,25000,48909.96516274652
+Roti Bakar,Magelang,Sore,3,15000,48733.12659890191
+Kentang Goreng,Yogyakarta,Pagi,1,25000,15286.177719325417
+Americano,Yogyakarta,Siang,2,20000,35245.31911168791
+Kopi Susu,Magelang,Malam,4,30000,115634.88924249551
+Cappuccino,Magelang,Siang,5,18000,83796.68766294398
+Kopi Susu,Yogyakarta,Malam,5,25000,109961.17862276171
+Americano,Semarang,Malam,1,15000,12520.856706995246
+Roti Bakar,Semarang,Malam,5,22000,100394.68785104106
+Kopi Susu,Magelang,Pagi,3,30000,100098.13931585688
+Cappuccino,Magelang,Sore,5,30000,143886.90681976447
+Americano,Semarang,Malam,5,25000,125796.41685826618
+Cappuccino,Semarang,Siang,2,25000,56163.483672592345
+Kentang Goreng,Semarang,Sore,2,30000,56470.362781229036
+Kopi Susu,Magelang,Pagi,5,30000,138831.28552072943
+Kopi Susu,Magelang,Malam,4,18000,81888.39094216184
+Cappuccino,Semarang,Sore,4,15000,43914.71985129759
+Kopi Susu,Semarang,Sore,1,22000,28553.426479745605
+Roti Bakar,Semarang,Malam,5,22000,103480.79437092505
+Es Teh,Yogyakarta,Pagi,3,18000,56581.08159743093
+Americano,Magelang,Sore,5,30000,157181.79091172226
+Roti Bakar,Semarang,Pagi,2,18000,41295.69329480842
+Es Teh,Magelang,Pagi,5,22000,109547.6172471849
+Americano,Magelang,Sore,4,18000,74811.13313162721
+Es Teh,Yogyakarta,Siang,2,15000,42951.99964452821
+Americano,Magelang,Sore,4,22000,88993.79882452266
+Kopi Susu,Magelang,Pagi,5,20000,99002.70696630405
+Roti Bakar,Semarang,Sore,2,20000,40373.20854663168
+Roti Bakar,Yogyakarta,Siang,4,25000,104975.06523498925
+Kentang Goreng,Yogyakarta,Siang,4,22000,100671.0328088348
+Es Teh,Semarang,Malam,3,18000,72778.05701603934
+Cappuccino,Magelang,Sore,2,18000,34022.815867075034
+Americano,Yogyakarta,Sore,5,15000,88762.98048169976
+Americano,Semarang,Malam,4,30000,126616.52524554236
+Es Teh,Semarang,Pagi,3,30000,88042.5147820337
+Kopi Susu,Magelang,Siang,5,30000,146522.6544928976
+Es Teh,Semarang,Sore,4,15000,53642.98613286649
+Cappuccino,Semarang,Sore,1,20000,-2449.5797618544602
+Kentang Goreng,Semarang,Malam,4,25000,93366.49209470215
+Americano,Yogyakarta,Sore,3,30000,87415.46305631405
+Es Teh,Yogyakarta,Pagi,5,22000,107900.51678023163
+Cappuccino,Magelang,Sore,3,30000,82466.13490089467
+Roti Bakar,Semarang,Pagi,5,18000,85355.61704415367
+Americano,Yogyakarta,Pagi,5,22000,118533.54615363818
+Roti Bakar,Yogyakarta,Malam,1,22000,26600.695628007477
+Kopi Susu,Semarang,Siang,5,15000,51000.1029958954
+Roti Bakar,Magelang,Siang,3,22000,53142.08205453646
+Kentang Goreng,Magelang,Pagi,1,15000,24375.66446040557
+Kentang Goreng,Magelang,Sore,2,20000,23638.320894309152
+Kopi Susu,Yogyakarta,Siang,4,20000,81140.86043911795
+Es Teh,Magelang,Pagi,2,20000,48660.01249709059
+Roti Bakar,Magelang,Sore,5,30000,148369.98836113294
+Es Teh,Semarang,Malam,5,15000,83849.33421848013
+Kopi Susu,Semarang,Pagi,1,22000,26608.978550693966
+Kentang Goreng,Semarang,Siang,2,15000,25738.77034736283
+Kopi Susu,Semarang,Malam,3,22000,71021.72802087656
+Cappuccino,Semarang,Siang,5,30000,150290.7871709084
+Es Teh,Yogyakarta,Sore,3,18000,56799.53609046914
+Kentang Goreng,Semarang,Sore,1,30000,17741.67088570368
+Kopi Susu,Semarang,Siang,2,20000,52958.383978461265
+Roti Bakar,Semarang,Siang,4,25000,109840.02395968698
+Kentang Goreng,Semarang,Pagi,3,18000,50997.263911733724
+Es Teh,Magelang,Sore,4,30000,118357.59211959559
+Kentang Goreng,Semarang,Pagi,2,25000,50522.758842000374
+Es Teh,Semarang,Sore,2,20000,43257.00324597863
+Roti Bakar,Semarang,Malam,2,22000,42091.879512094965
+Kopi Susu,Magelang,Sore,2,30000,53663.60546112634
+Es Teh,Semarang,Pagi,1,22000,18656.862610860226
+Kopi Susu,Semarang,Siang,2,30000,60573.264098541375
+Roti Bakar,Yogyakarta,Pagi,1,15000,5965.915515399383
+Kopi Susu,Magelang,Siang,5,25000,128279.13092147534
+Kopi Susu,Magelang,Malam,3,22000,70299.45273813058
+Cappuccino,Magelang,Siang,4,30000,116470.85846189727
+Cappuccino,Yogyakarta,Siang,2,20000,52891.58743654275
+Roti Bakar,Yogyakarta,Pagi,4,15000,63046.84321416346
+Es Teh,Yogyakarta,Malam,4,30000,102667.97799529987
+Americano,Semarang,Malam,3,20000,58148.36164169564
+Kentang Goreng,Magelang,Malam,1,30000,28848.326279545
+Kentang Goreng,Yogyakarta,Siang,5,15000,75897.9895476878
+Kopi Susu,Magelang,Siang,4,25000,109806.18308664345
+Es Teh,Magelang,Siang,2,25000,45847.38889412898
+Americano,Magelang,Malam,5,25000,140386.40273615732
+Es Teh,Semarang,Malam,1,22000,34734.83467781176
+Es Teh,Semarang,Malam,1,30000,29851.669465359628
+Cappuccino,Yogyakarta,Sore,3,20000,54618.26441128567
+Roti Bakar,Yogyakarta,Sore,2,30000,60473.76469167018
+Es Teh,Yogyakarta,Siang,3,22000,66777.29496895112
+Kopi Susu,Yogyakarta,Pagi,2,15000,27914.695767244004
+Cappuccino,Yogyakarta,Pagi,4,20000,80512.35778537262
+Roti Bakar,Semarang,Pagi,1,20000,18387.26879700002
+Americano,Semarang,Malam,3,30000,88900.82792435886
+Kopi Susu,Magelang,Malam,4,20000,90010.3657562507
+Roti Bakar,Yogyakarta,Sore,3,25000,87582.42263823896
+Cappuccino,Yogyakarta,Malam,4,25000,111273.64339418139
+Kopi Susu,Semarang,Siang,2,25000,54427.31064489495
+Kentang Goreng,Yogyakarta,Malam,5,22000,111366.72216355783
+Roti Bakar,Magelang,Siang,1,15000,13764.648180928883
+Cappuccino,Yogyakarta,Pagi,3,18000,59468.48922290015
+Americano,Semarang,Malam,5,22000,111685.47264854562
+Roti Bakar,Yogyakarta,Pagi,1,30000,16829.12000837479
+Roti Bakar,Semarang,Siang,1,30000,36674.74747882811
+Kentang Goreng,Semarang,Siang,4,18000,78412.67645568145
+Americano,Semarang,Sore,2,15000,36015.714377904136
+Americano,Semarang,Sore,1,15000,16238.36543690217
+Es Teh,Yogyakarta,Sore,4,18000,65338.82584676982
+Americano,Semarang,Malam,1,30000,35437.597513755674
+Americano,Semarang,Malam,1,30000,41641.381221141666
+Es Teh,Semarang,Siang,2,30000,65458.4542909907
+Es Teh,Semarang,Malam,1,30000,17596.97079636894
+Americano,Yogyakarta,Sore,5,18000,85923.48911142949
+Americano,Semarang,Siang,4,30000,119755.30661982392
+Kopi Susu,Yogyakarta,Pagi,1,22000,19556.374396997504
+Kopi Susu,Yogyakarta,Malam,3,15000,38046.615783896035
+Kopi Susu,Magelang,Pagi,1,25000,29883.930919106337
+Roti Bakar,Magelang,Malam,2,18000,46711.02657979291
+Americano,Semarang,Pagi,4,30000,122571.20534525075
+Roti Bakar,Semarang,Sore,2,22000,41563.775549268335
+Cappuccino,Magelang,Sore,3,15000,56656.437960562675
+Es Teh,Yogyakarta,Sore,4,25000,103625.82345953246
+Kentang Goreng,Semarang,Sore,2,20000,46274.07467028215
+Cappuccino,Semarang,Siang,5,22000,116111.85998216587
+Americano,Yogyakarta,Sore,2,18000,32500.05874639764
+Kentang Goreng,Magelang,Malam,2,22000,53872.41961635268
+Roti Bakar,Yogyakarta,Malam,5,25000,133645.68225528667
+Kentang Goreng,Magelang,Siang,2,25000,57108.74475120046
+Es Teh,Magelang,Siang,2,15000,44398.97282169064
+Cappuccino,Semarang,Pagi,2,25000,52736.63422879354
+Kopi Susu,Semarang,Malam,4,30000,133857.67360569868
+Kopi Susu,Semarang,Malam,1,15000,19230.671392356282
+Es Teh,Yogyakarta,Malam,2,25000,52530.84434086683
+Roti Bakar,Magelang,Pagi,1,22000,21418.442398501564
+Americano,Yogyakarta,Pagi,3,25000,73970.9286761618
+Roti Bakar,Semarang,Malam,2,30000,57563.68674791782
+Kopi Susu,Magelang,Malam,1,30000,23919.827918959105
+Cappuccino,Magelang,Sore,1,20000,24749.374883147935
+Americano,Magelang,Siang,5,15000,73426.24987104473
+Kopi Susu,Magelang,Siang,1,30000,42612.81041956836
+Kentang Goreng,Yogyakarta,Pagi,2,22000,37906.81825413096
+Kentang Goreng,Semarang,Sore,5,25000,126115.92729973157
+Kentang Goreng,Semarang,Siang,4,22000,93908.74455764095
+Kentang Goreng,Yogyakarta,Malam,2,25000,49113.93145487289
+Roti Bakar,Magelang,Pagi,5,15000,74533.81577057984
+Americano,Semarang,Sore,3,18000,51199.76444239609
+Kopi Susu,Yogyakarta,Pagi,1,15000,10728.763907258814
+Es Teh,Yogyakarta,Sore,2,25000,38922.763764553645
+Roti Bakar,Yogyakarta,Malam,3,15000,37245.38082960632
+Roti Bakar,Semarang,Pagi,2,25000,41675.570147632905
+Roti Bakar,Yogyakarta,Pagi,5,30000,142115.5613355304
+Es Teh,Yogyakarta,Siang,3,20000,47133.78587600911
+Roti Bakar,Yogyakarta,Siang,5,25000,125383.78114039975
+Kentang Goreng,Magelang,Pagi,3,25000,61633.703167776766
+Es Teh,Magelang,Siang,2,22000,37764.84412617823
+Roti Bakar,Magelang,Malam,3,22000,85061.7282939991
+Americano,Yogyakarta,Malam,2,22000,32620.499208243516
+Kopi Susu,Magelang,Siang,5,25000,129357.60198827324
+Cappuccino,Semarang,Pagi,5,25000,117540.27314838105
+Kentang Goreng,Semarang,Siang,4,25000,108544.70672921099
+Americano,Magelang,Pagi,5,30000,152684.55281340107
+Americano,Magelang,Sore,5,22000,99951.86525034277
+Kentang Goreng,Semarang,Sore,3,15000,53866.06832129622
+Cappuccino,Magelang,Siang,4,15000,53938.779989315386
+Kentang Goreng,Semarang,Malam,5,22000,114286.22295773083
+Roti Bakar,Semarang,Siang,5,30000,156218.17165449518
+Kentang Goreng,Magelang,Pagi,3,30000,85141.85539048452
+Americano,Yogyakarta,Pagi,5,15000,77095.14849932896
+Kopi Susu,Magelang,Sore,3,18000,58530.34188004772
+Roti Bakar,Semarang,Siang,2,18000,32892.57879396339
+Roti Bakar,Yogyakarta,Malam,3,20000,63263.6061195981
+Kentang Goreng,Magelang,Pagi,5,18000,90130.46568983413
+Cappuccino,Yogyakarta,Sore,5,15000,68284.57884241955
+Kopi Susu,Semarang,Siang,5,20000,108854.3662871542
+Cappuccino,Magelang,Siang,1,20000,20841.457965493777
+Kopi Susu,Magelang,Siang,3,15000,51125.385720015685
+Es Teh,Yogyakarta,Pagi,2,30000,57726.24415936716
+Kentang Goreng,Semarang,Sore,2,25000,68584.11374485919
+Es Teh,Magelang,Siang,3,25000,81652.33215936967
+Kopi Susu,Magelang,Pagi,2,30000,60660.62189168897
+Kopi Susu,Semarang,Sore,2,15000,40306.466810679056
+Roti Bakar,Yogyakarta,Malam,2,25000,56570.2194634042
+Americano,Semarang,Sore,3,25000,77286.65952363031
+Kopi Susu,Magelang,Siang,5,22000,108743.14483865487
+Es Teh,Magelang,Sore,5,22000,110253.48902746197
+Cappuccino,Magelang,Siang,4,18000,73920.83866547715
+Kentang Goreng,Yogyakarta,Malam,5,20000,94972.64426192528
+Es Teh,Yogyakarta,Sore,4,15000,66712.59391248936
+Kentang Goreng,Yogyakarta,Malam,3,30000,87520.37776553845
+Americano,Semarang,Malam,4,25000,95893.28014592215
+Roti Bakar,Yogyakarta,Sore,5,20000,102469.9072645816
+Americano,Yogyakarta,Malam,5,25000,131009.82546038218
+Kopi Susu,Magelang,Pagi,1,30000,31301.173621734324
+Cappuccino,Magelang,Siang,4,25000,107051.91167811565
+Kentang Goreng,Magelang,Sore,2,20000,31573.541648370687
+Es Teh,Yogyakarta,Siang,5,15000,64473.51950873688
+Americano,Yogyakarta,Siang,5,15000,68474.33729806464
+Cappuccino,Semarang,Pagi,4,20000,83237.17807178185
+Kentang Goreng,Semarang,Sore,5,22000,125688.08506344706
+Kentang Goreng,Semarang,Malam,1,25000,25289.067401120064
+Es Teh,Magelang,Pagi,4,18000,57658.42524246407
+Americano,Magelang,Pagi,4,25000,102160.74810528014
+Es Teh,Semarang,Pagi,5,30000,141146.6441679531
+Roti Bakar,Magelang,Pagi,2,25000,48393.75858459488
+Roti Bakar,Magelang,Sore,3,15000,41110.54304926476
+Kopi Susu,Magelang,Siang,4,15000,55858.86162509179
+Cappuccino,Yogyakarta,Pagi,4,30000,110360.89485577129
+Kentang Goreng,Magelang,Malam,5,15000,73254.78208837273
+Kentang Goreng,Semarang,Pagi,2,25000,48353.88270075738
+Es Teh,Magelang,Siang,1,25000,24176.04904642798
+Roti Bakar,Yogyakarta,Sore,1,25000,40092.158579170486
+Cappuccino,Semarang,Sore,2,22000,43468.35579265942
+Roti Bakar,Magelang,Siang,2,15000,21573.517602970067
+Americano,Yogyakarta,Siang,2,15000,30596.594294122995
+Kopi Susu,Yogyakarta,Siang,5,18000,90844.26495715539
+Kopi Susu,Semarang,Sore,1,22000,26370.453733455983
+Es Teh,Yogyakarta,Pagi,3,15000,28400.36017656765
+Roti Bakar,Semarang,Pagi,3,18000,69298.00102670997
+Roti Bakar,Yogyakarta,Pagi,5,30000,159110.52608142488
+Cappuccino,Magelang,Siang,2,20000,29663.119957078314
+Cappuccino,Magelang,Sore,5,30000,157023.60068404896
+Kentang Goreng,Magelang,Sore,2,18000,32597.52237853857
+Kopi Susu,Yogyakarta,Sore,2,15000,30799.499790060145
+Kentang Goreng,Magelang,Malam,3,20000,63472.212562531364
+Americano,Magelang,Pagi,3,22000,65603.09273447325
+Kentang Goreng,Yogyakarta,Malam,1,22000,20362.381141960337
+Kopi Susu,Semarang,Siang,3,20000,60450.09106204603
+Kopi Susu,Semarang,Siang,1,18000,22326.557316197835
+Cappuccino,Semarang,Sore,2,30000,59671.56393948057
+Americano,Yogyakarta,Malam,1,25000,24778.760512859568
+Cappuccino,Yogyakarta,Siang,3,30000,96913.67451460907
+Es Teh,Yogyakarta,Pagi,4,15000,57036.688491643625
+Kopi Susu,Yogyakarta,Siang,1,15000,20590.995846327038
+Kopi Susu,Semarang,Malam,5,22000,106089.67059478837
+Es Teh,Semarang,Pagi,3,22000,60586.78653156479
+Kentang Goreng,Magelang,Siang,2,25000,52806.50783424643
+Cappuccino,Yogyakarta,Sore,5,15000,90528.24235224625
+Kentang Goreng,Yogyakarta,Sore,1,30000,22590.778041100217
+Americano,Magelang,Sore,5,25000,128429.06299597301
+Americano,Semarang,Sore,1,22000,29494.178166802412
+Kentang Goreng,Semarang,Malam,3,15000,34454.88841764368
+Americano,Magelang,Malam,1,25000,19721.170446051627
+Kopi Susu,Magelang,Siang,4,15000,69456.96038167807
+Cappuccino,Magelang,Malam,1,18000,24633.487599281296
+Roti Bakar,Semarang,Pagi,3,30000,82251.54682066786
+Cappuccino,Magelang,Siang,4,18000,68552.31738090405
+Kopi Susu,Magelang,Siang,3,22000,64467.553483150325
+Roti Bakar,Magelang,Pagi,1,18000,18961.069849959906
+Kopi Susu,Semarang,Siang,4,22000,85387.9181717806
+Es Teh,Semarang,Pagi,1,20000,19716.277619293964
+Roti Bakar,Yogyakarta,Sore,1,22000,21518.654983170854
+Cappuccino,Magelang,Pagi,5,18000,90038.68431887859
+Americano,Magelang,Malam,1,22000,16176.640411161712
+Americano,Semarang,Malam,1,18000,14200.834573261574
+Kentang Goreng,Magelang,Pagi,2,25000,32243.824606638405
+Cappuccino,Magelang,Pagi,1,20000,17591.175265401296
+Roti Bakar,Magelang,Siang,3,25000,89157.25199827924
+Kopi Susu,Magelang,Siang,5,15000,80221.64577627517
+Cappuccino,Semarang,Malam,3,25000,88778.61613069642
+Kopi Susu,Yogyakarta,Malam,2,18000,54323.71645981844
+Cappuccino,Yogyakarta,Malam,2,18000,29348.59508997335
+Roti Bakar,Yogyakarta,Pagi,2,25000,59901.82856777587
+Kentang Goreng,Yogyakarta,Malam,3,25000,83449.1453070412
+Cappuccino,Semarang,Siang,3,20000,60157.4641265663
+Roti Bakar,Yogyakarta,Malam,4,15000,45300.455039301305
+Es Teh,Yogyakarta,Malam,3,22000,74034.0328361083
+Americano,Yogyakarta,Sore,5,30000,164050.76039611854
+Es Teh,Magelang,Pagi,1,25000,18411.693231836914
+Americano,Magelang,Siang,5,25000,120341.04594421189
+Americano,Yogyakarta,Malam,3,22000,54978.65954870093
+Roti Bakar,Yogyakarta,Malam,2,20000,42372.31610082549
+Cappuccino,Magelang,Sore,3,15000,53211.495227910265
+Kopi Susu,Semarang,Malam,3,20000,55368.62549106251
+Kopi Susu,Yogyakarta,Pagi,4,15000,71217.1866886511
+Kentang Goreng,Yogyakarta,Sore,4,18000,74025.95663206291
+Kopi Susu,Yogyakarta,Malam,5,20000,96747.51596537443
+Americano,Magelang,Pagi,4,22000,97390.04610730882
+Roti Bakar,Semarang,Pagi,2,20000,28410.890778158697
+Kentang Goreng,Semarang,Sore,1,20000,15680.092383166771
+Americano,Magelang,Malam,1,25000,25086.08815754784
+Kopi Susu,Magelang,Pagi,3,22000,68100.32348870276
+Americano,Semarang,Sore,3,25000,77426.784771749
+Kopi Susu,Semarang,Malam,4,15000,58463.12362040596
+Kopi Susu,Magelang,Pagi,4,15000,65230.42723652211
+Americano,Yogyakarta,Sore,2,18000,38674.73126607288
+Roti Bakar,Semarang,Malam,5,25000,114263.72501238796
+Cappuccino,Magelang,Malam,2,15000,38728.256856124535
+Americano,Magelang,Sore,5,15000,86763.77189358122
+Cappuccino,Semarang,Pagi,2,18000,38909.46136042239
+Cappuccino,Yogyakarta,Pagi,3,20000,57648.31301725868
+Roti Bakar,Semarang,Sore,4,18000,75523.36613613211
+Americano,Yogyakarta,Siang,5,25000,130385.37782592744
+Kopi Susu,Yogyakarta,Sore,2,18000,35685.72231217036
+Americano,Semarang,Malam,3,22000,49395.86891789839
+Americano,Semarang,Sore,5,30000,155207.16576969714
+Kentang Goreng,Magelang,Malam,2,25000,37051.65966655768
+Roti Bakar,Semarang,Pagi,2,30000,65815.17933859654
+Cappuccino,Magelang,Sore,1,30000,27302.33139930699
+Cappuccino,Semarang,Sore,1,20000,22698.825921857082
+Es Teh,Yogyakarta,Sore,2,25000,49676.846303288134
+Kopi Susu,Yogyakarta,Malam,1,18000,20810.654897065677
+Kopi Susu,Magelang,Siang,3,22000,88568.39831442147
+Cappuccino,Semarang,Malam,3,20000,64367.83429323682
+Es Teh,Yogyakarta,Pagi,2,22000,50151.950621141004
+Roti Bakar,Magelang,Malam,1,20000,28308.207736076045
+Americano,Yogyakarta,Siang,3,25000,78295.13303556578
+Americano,Magelang,Sore,4,15000,66719.25941147865
+Kentang Goreng,Magelang,Siang,3,15000,48813.57908389846
+Es Teh,Semarang,Siang,1,30000,23610.59524792008
+Americano,Semarang,Siang,4,30000,121507.61335788397
+Americano,Yogyakarta,Pagi,3,18000,41111.228506028536
+Kentang Goreng,Semarang,Sore,3,30000,89422.78171683256
+Es Teh,Yogyakarta,Pagi,4,30000,113132.33359058978
+Roti Bakar,Semarang,Siang,5,22000,108034.25938272353
+Americano,Yogyakarta,Sore,3,20000,48953.149447947224
+Es Teh,Magelang,Sore,4,30000,130942.87207022915
+Kopi Susu,Magelang,Pagi,3,25000,67037.29730686285
+Americano,Yogyakarta,Sore,2,22000,51248.8514985573
+Cappuccino,Magelang,Pagi,4,30000,120074.45549577313
+Kentang Goreng,Magelang,Pagi,4,22000,101473.44871609972
+Kentang Goreng,Magelang,Malam,2,18000,37733.79824894514
+Kopi Susu,Semarang,Sore,2,20000,43861.395295713715
+Es Teh,Semarang,Pagi,2,25000,51597.84054735098
+Kopi Susu,Magelang,Siang,5,30000,145297.89420495895
+Cappuccino,Yogyakarta,Pagi,4,25000,93650.76293033564
+Es Teh,Semarang,Malam,1,30000,33924.09815316437
+Kentang Goreng,Yogyakarta,Siang,3,18000,39777.82661019721
+Cappuccino,Semarang,Malam,3,22000,70607.2058788465
+Kopi Susu,Semarang,Pagi,5,22000,118234.11594656718
+Americano,Magelang,Pagi,4,25000,99994.17567791023
+Americano,Magelang,Siang,1,20000,13815.11663292278
+Roti Bakar,Yogyakarta,Malam,5,22000,116220.54430575177
+Es Teh,Magelang,Pagi,3,15000,44919.46610978195
+Es Teh,Magelang,Pagi,2,30000,50691.987063741464
+Americano,Magelang,Siang,5,20000,97129.37618585012
+Kentang Goreng,Magelang,Malam,5,30000,149796.13903949535
+Kentang Goreng,Semarang,Malam,3,15000,41167.270921159114
+Roti Bakar,Yogyakarta,Malam,3,30000,80768.79717874725
+Roti Bakar,Magelang,Malam,3,18000,56974.41334722267
+Kentang Goreng,Yogyakarta,Malam,1,30000,32746.05960510585
+Roti Bakar,Magelang,Malam,3,25000,78477.24001792769
+Roti Bakar,Yogyakarta,Malam,4,20000,79321.67541432024
+Roti Bakar,Yogyakarta,Sore,2,15000,20714.415551572478
+Cappuccino,Yogyakarta,Siang,3,22000,68161.20386642673
+Es Teh,Yogyakarta,Pagi,5,22000,113899.45084886847
+Roti Bakar,Semarang,Siang,2,15000,36956.03384707692
+Americano,Yogyakarta,Siang,5,22000,112727.50950460778
+Es Teh,Semarang,Pagi,1,25000,31677.064694746754
+Kopi Susu,Yogyakarta,Siang,4,30000,115592.41035423247
+Kentang Goreng,Semarang,Siang,2,15000,47479.652319956054
+Roti Bakar,Yogyakarta,Malam,1,22000,27438.63909418787
+Roti Bakar,Yogyakarta,Pagi,3,15000,57496.083696392714
+Es Teh,Semarang,Pagi,1,15000,33705.338400059096
+Cappuccino,Magelang,Pagi,5,15000,86275.97910038725
+Americano,Semarang,Malam,2,22000,64447.900385700654
+Cappuccino,Semarang,Siang,4,22000,80817.54175876398
+Cappuccino,Magelang,Malam,2,15000,20836.719796865586
+Roti Bakar,Yogyakarta,Pagi,2,25000,44355.68459888195
+Cappuccino,Magelang,Siang,4,30000,100130.86252745506
+Cappuccino,Semarang,Siang,4,18000,70386.89513530316
+Kentang Goreng,Yogyakarta,Sore,3,15000,41497.80645774924
+Kopi Susu,Semarang,Sore,1,30000,33667.42858056735
+Kentang Goreng,Yogyakarta,Sore,3,15000,36622.05311374247
+Kopi Susu,Magelang,Sore,1,18000,9781.85449485354
+Kentang Goreng,Magelang,Siang,5,25000,120008.7250320848
+Americano,Semarang,Siang,2,15000,34662.85744951403
+Kopi Susu,Magelang,Pagi,4,20000,84699.90439917336
+Roti Bakar,Magelang,Siang,1,20000,28585.472997430283
+Cappuccino,Magelang,Siang,2,18000,28622.99872255455
+Cappuccino,Semarang,Malam,3,20000,70108.64883685618
+Kopi Susu,Yogyakarta,Siang,5,30000,137922.15814457968
+Cappuccino,Semarang,Pagi,3,18000,57496.196906631354
+Es Teh,Magelang,Sore,2,15000,33726.441899172096
+Kopi Susu,Yogyakarta,Sore,5,22000,88700.93315482093
+Roti Bakar,Magelang,Pagi,1,15000,29443.7075517867
+Cappuccino,Magelang,Sore,3,30000,90396.16790059803
+Es Teh,Semarang,Siang,2,30000,63152.40204490624
+Kopi Susu,Yogyakarta,Sore,3,30000,100014.13290451521
+Cappuccino,Semarang,Sore,1,22000,14686.442870835435
+Kopi Susu,Magelang,Pagi,3,15000,50990.04815649733
+Es Teh,Semarang,Siang,1,15000,6888.104274124294
+Kopi Susu,Semarang,Pagi,2,20000,55060.43953083099
+Kentang Goreng,Yogyakarta,Sore,2,20000,47065.564508859185
+Es Teh,Yogyakarta,Sore,4,25000,99306.87637923227
+Roti Bakar,Magelang,Siang,5,18000,79492.42459270428
+Es Teh,Yogyakarta,Sore,2,15000,20648.86611171934
+Kopi Susu,Semarang,Malam,2,25000,38218.95203116022
+Roti Bakar,Magelang,Sore,2,25000,54613.096879039265
+Es Teh,Magelang,Malam,4,15000,68004.2483666579
+Americano,Yogyakarta,Malam,4,20000,73496.32815049429
+Roti Bakar,Yogyakarta,Malam,1,15000,5957.319687451738
+Kentang Goreng,Magelang,Malam,1,22000,25162.45387529768
+Americano,Yogyakarta,Sore,2,30000,68200.66841832633
+Cappuccino,Magelang,Pagi,5,18000,88049.32008073968
+Americano,Magelang,Siang,1,25000,27159.90879475922
+Kentang Goreng,Semarang,Malam,3,30000,89838.18092356875
+Kentang Goreng,Yogyakarta,Malam,1,22000,19205.77735521901
+Es Teh,Semarang,Pagi,4,30000,108722.60979863294
+Cappuccino,Semarang,Sore,3,18000,57197.91282964501
+Americano,Magelang,Malam,5,20000,101119.38631486008
+Cappuccino,Semarang,Sore,1,22000,27388.760888865643
+Es Teh,Semarang,Siang,5,15000,63284.06138354966
+Americano,Yogyakarta,Siang,5,30000,156954.138866341
+Americano,Magelang,Sore,5,18000,74746.53314166651
+Kopi Susu,Semarang,Malam,1,20000,12931.487438686612
+Americano,Magelang,Pagi,4,18000,88159.52465356607
+Kentang Goreng,Magelang,Siang,5,22000,124656.96460480832
+Kentang Goreng,Semarang,Malam,2,22000,38442.877024325746
+Kentang Goreng,Magelang,Malam,1,25000,23002.93817322307
+Americano,Magelang,Malam,1,20000,16981.268419012114
+Cappuccino,Magelang,Malam,4,30000,128913.562892006
+Es Teh,Magelang,Pagi,3,30000,101198.71989370292
+Americano,Magelang,Sore,2,25000,47899.61502144784
+Es Teh,Magelang,Sore,2,25000,50792.07571329363
+Es Teh,Yogyakarta,Sore,1,30000,32752.033204083993
+Kopi Susu,Magelang,Sore,3,22000,56241.16487896061
+Americano,Yogyakarta,Pagi,2,18000,30526.40923241439
+Kentang Goreng,Magelang,Siang,2,20000,39150.46112617722
+Cappuccino,Yogyakarta,Siang,4,25000,106986.73707262406
+Cappuccino,Yogyakarta,Pagi,5,20000,117694.70474373194
+Kentang Goreng,Semarang,Sore,3,15000,41075.508625436
+Americano,Semarang,Siang,2,25000,58295.35129640978
+Roti Bakar,Yogyakarta,Malam,4,15000,54549.69233716663
+Cappuccino,Semarang,Siang,2,18000,21017.997990664713
+Kentang Goreng,Magelang,Pagi,2,18000,31798.956789747255
+Kopi Susu,Yogyakarta,Siang,1,30000,25413.377903225988
+Es Teh,Yogyakarta,Sore,4,30000,115033.20238592345
+Americano,Yogyakarta,Sore,5,22000,119039.66247041531
+Americano,Magelang,Sore,3,22000,62494.61507169126
+Roti Bakar,Semarang,Sore,5,18000,96618.62972194859
+Es Teh,Yogyakarta,Pagi,1,15000,11093.666209379673
+Cappuccino,Yogyakarta,Malam,3,30000,96531.31905130761
+Kopi Susu,Semarang,Sore,4,18000,64957.01591163781
+Kentang Goreng,Magelang,Siang,1,25000,23581.58390043491
+Cappuccino,Semarang,Siang,2,18000,37546.03523431494
+Americano,Yogyakarta,Siang,1,25000,34107.20790658282
+Americano,Semarang,Malam,1,22000,31256.022643959957
+Roti Bakar,Yogyakarta,Pagi,5,18000,96585.3448702226
+Es Teh,Yogyakarta,Siang,2,25000,47053.976847509315
+Americano,Yogyakarta,Sore,5,30000,153642.01223944325
+Roti Bakar,Magelang,Pagi,3,15000,44201.02735641628
+Roti Bakar,Magelang,Siang,2,25000,43927.64437455929
+Roti Bakar,Yogyakarta,Siang,3,20000,59359.394551209414
+Kopi Susu,Yogyakarta,Sore,3,20000,47259.85746614177
+Cappuccino,Yogyakarta,Sore,1,15000,2778.868628873626
+Americano,Magelang,Siang,3,30000,94671.51817876135
+Kopi Susu,Magelang,Pagi,2,30000,60922.13263593342
+Kentang Goreng,Magelang,Sore,3,30000,87394.57117645083
+Kopi Susu,Magelang,Sore,3,15000,58399.229539169806
+Cappuccino,Yogyakarta,Malam,5,15000,78173.81117388917
+Americano,Semarang,Malam,2,22000,49560.50432416463
+Es Teh,Yogyakarta,Malam,2,30000,46512.16154958504
+Kopi Susu,Semarang,Siang,3,22000,75572.65753362294
+Roti Bakar,Semarang,Siang,3,20000,68359.57226961086
+Cappuccino,Semarang,Sore,1,22000,30012.909831055047
+Cappuccino,Yogyakarta,Malam,2,18000,37971.438748871326
+Kopi Susu,Magelang,Malam,4,25000,103656.97755797168
+Americano,Yogyakarta,Sore,1,22000,28387.82587581395
+Es Teh,Yogyakarta,Malam,2,22000,43108.4802461324
+Kopi Susu,Yogyakarta,Siang,5,25000,142248.6892058449
+Es Teh,Magelang,Pagi,2,25000,46362.22825013818
+Es Teh,Magelang,Siang,4,25000,97384.56680377123
+Kopi Susu,Yogyakarta,Malam,2,22000,50056.32718486386
+Roti Bakar,Magelang,Pagi,4,22000,98210.9115049101
+Roti Bakar,Semarang,Siang,2,20000,43631.18439371018
+Americano,Magelang,Malam,4,22000,85834.8564401191
+Es Teh,Magelang,Siang,2,22000,49167.760885166346
+Kopi Susu,Semarang,Malam,3,18000,67863.6509949654
+Es Teh,Semarang,Siang,1,15000,24227.235755477443
+Roti Bakar,Yogyakarta,Sore,3,18000,65363.73665731269
+Kentang Goreng,Semarang,Siang,3,22000,72058.88881417623
+Es Teh,Semarang,Siang,1,25000,21434.64657943973
+Cappuccino,Yogyakarta,Pagi,1,15000,19809.181501989144
+Kopi Susu,Magelang,Siang,2,15000,39054.07161199258
+Americano,Semarang,Malam,5,22000,119523.69419649942
+Kopi Susu,Semarang,Malam,1,30000,39321.55351282599
+Es Teh,Yogyakarta,Sore,3,25000,75442.68462498227
+Kentang Goreng,Magelang,Sore,5,22000,100481.66052638539
+Es Teh,Magelang,Malam,1,30000,21462.35969104721
+Es Teh,Magelang,Siang,5,30000,145993.50783519953
+Roti Bakar,Magelang,Sore,3,18000,57120.61579268982
+Americano,Semarang,Sore,1,18000,25259.837675998846
+Kentang Goreng,Yogyakarta,Pagi,1,20000,14136.919096467429
+Cappuccino,Yogyakarta,Pagi,2,20000,34380.800790836394
+Es Teh,Yogyakarta,Siang,2,30000,62442.54362306483
+Kentang Goreng,Yogyakarta,Sore,1,20000,49.10902010530481
+Americano,Magelang,Pagi,4,30000,130758.48098025571
+Kopi Susu,Yogyakarta,Malam,2,30000,68042.77865567284
+Cappuccino,Yogyakarta,Siang,2,30000,65403.59828824192
+Cappuccino,Yogyakarta,Siang,4,15000,61744.778110997126
+Americano,Semarang,Siang,1,25000,16655.667394360207
+Kopi Susu,Yogyakarta,Siang,1,30000,24916.716467416773
+Es Teh,Yogyakarta,Sore,3,25000,86928.57725544051
+Kentang Goreng,Semarang,Siang,1,25000,31223.30272981946
+Cappuccino,Magelang,Pagi,2,20000,41197.90556730321
+Kentang Goreng,Magelang,Pagi,2,25000,52390.35822793026
+Kopi Susu,Yogyakarta,Malam,4,18000,70696.54247432791
+Kentang Goreng,Magelang,Sore,1,25000,20664.17877545904
+Kentang Goreng,Semarang,Malam,4,30000,122035.77787834538
+Kopi Susu,Yogyakarta,Siang,3,15000,40791.49571378948
+Cappuccino,Magelang,Pagi,1,18000,10841.927442711909
+Cappuccino,Semarang,Malam,4,20000,93267.98001712421
+Kentang Goreng,Semarang,Sore,2,15000,30474.23414085825
+Kopi Susu,Yogyakarta,Sore,5,22000,112132.39546161878
+Es Teh,Magelang,Malam,3,18000,57486.31509887593
+Kopi Susu,Magelang,Pagi,4,30000,118539.16460546323
+Kentang Goreng,Yogyakarta,Siang,4,30000,107648.09848765635
+Kopi Susu,Magelang,Malam,3,25000,72296.76792085747
+Roti Bakar,Semarang,Siang,5,20000,97529.73667626113
+Americano,Magelang,Siang,5,30000,144732.0240683785
+Kopi Susu,Semarang,Malam,5,30000,155230.96867516334
+Es Teh,Yogyakarta,Pagi,2,25000,51710.19298455393
+Cappuccino,Yogyakarta,Malam,1,15000,15816.24489719306
+Es Teh,Semarang,Pagi,4,30000,117557.68930720122
+Roti Bakar,Magelang,Malam,3,15000,45868.997022127136
+Kopi Susu,Yogyakarta,Sore,5,25000,144172.92524259063
+Americano,Semarang,Pagi,1,18000,-5831.99890803454
+Kentang Goreng,Yogyakarta,Sore,1,20000,28378.95080412373
+Kentang Goreng,Yogyakarta,Malam,2,22000,50319.68499130629
+Roti Bakar,Yogyakarta,Sore,2,15000,24829.107953830382
+Kentang Goreng,Semarang,Pagi,2,18000,29747.02550258959
+Cappuccino,Semarang,Pagi,5,20000,107275.09585477193
+Kopi Susu,Yogyakarta,Pagi,3,30000,96387.78528567989
+Americano,Semarang,Sore,2,18000,56320.71713120215
+Es Teh,Semarang,Siang,1,30000,31757.08314171226
+Cappuccino,Magelang,Siang,3,20000,47650.34259772363
+Kopi Susu,Semarang,Pagi,2,30000,64408.91875398085
+Kentang Goreng,Yogyakarta,Sore,4,25000,98810.26458740055
+Kentang Goreng,Magelang,Siang,2,22000,45293.04179496168
+Es Teh,Semarang,Malam,2,25000,43946.60984072788
+Roti Bakar,Yogyakarta,Pagi,1,25000,18761.08417577336
+Es Teh,Magelang,Siang,4,15000,58932.19110294603
+Es Teh,Semarang,Pagi,1,20000,15578.63721161814
+Cappuccino,Yogyakarta,Pagi,4,25000,105731.25928046963
+Kopi Susu,Yogyakarta,Sore,2,18000,29146.71729460777
+Kentang Goreng,Semarang,Sore,2,30000,64567.439714120344
+Americano,Magelang,Siang,2,22000,42515.35659704079
+Cappuccino,Magelang,Malam,1,25000,21844.40900836809
+Cappuccino,Yogyakarta,Siang,3,18000,53432.71544509979
+Americano,Yogyakarta,Sore,1,18000,24334.280662100005
+Americano,Yogyakarta,Pagi,5,30000,152537.1429338718
+Kentang Goreng,Semarang,Siang,2,15000,35378.609206210574
+Kentang Goreng,Yogyakarta,Pagi,4,15000,65180.734685326235
+Americano,Semarang,Pagi,3,20000,78417.48936633715
+Roti Bakar,Magelang,Pagi,2,15000,44547.68092475386
+Kentang Goreng,Magelang,Malam,1,18000,23736.97545133743
+Es Teh,Yogyakarta,Pagi,2,20000,33452.26924329876
+Kopi Susu,Magelang,Sore,4,18000,85465.4756432178
+Kopi Susu,Yogyakarta,Malam,3,15000,33618.412762425345
+Cappuccino,Semarang,Pagi,2,18000,32444.6470525241
+Kopi Susu,Yogyakarta,Siang,4,22000,84762.225792314
+Kentang Goreng,Yogyakarta,Sore,3,18000,46740.989910902106
+Kopi Susu,Semarang,Malam,4,30000,112797.83553347123
+Kopi Susu,Semarang,Malam,2,15000,29479.243837668415
+Es Teh,Yogyakarta,Sore,1,20000,29574.947294516598
+Americano,Yogyakarta,Pagi,1,22000,23149.883487559044
+Kentang Goreng,Magelang,Sore,4,18000,72745.4124841526
+Roti Bakar,Magelang,Malam,2,15000,41218.13655282476
+Kentang Goreng,Yogyakarta,Malam,1,20000,457.3425849322339
+Es Teh,Semarang,Pagi,5,20000,103526.89132579273
+Americano,Yogyakarta,Malam,2,25000,52468.04434227286
+Kopi Susu,Magelang,Malam,4,25000,103752.12590766822
+Americano,Yogyakarta,Siang,2,30000,82519.80151246377
+Cappuccino,Magelang,Pagi,2,25000,39300.18056958697
+Kopi Susu,Magelang,Pagi,3,20000,55505.214791043
+Kopi Susu,Magelang,Pagi,4,30000,117509.33482478175
+Americano,Magelang,Pagi,4,22000,71804.60108429198
+Americano,Yogyakarta,Malam,5,30000,151486.52564007934
+Americano,Semarang,Sore,5,25000,131983.21038684758
+Cappuccino,Magelang,Siang,5,20000,86673.83990376674
+Americano,Semarang,Sore,3,15000,36720.84629032352
+Cappuccino,Yogyakarta,Pagi,5,22000,104066.7892265626
+Roti Bakar,Semarang,Malam,2,30000,59644.32462517423
+Kopi Susu,Magelang,Sore,1,20000,16716.50687980672
+Roti Bakar,Magelang,Pagi,3,18000,58421.2253716946
+Kopi Susu,Semarang,Sore,2,20000,42457.674151482955
+Americano,Magelang,Pagi,2,25000,68369.51387579773
+Kentang Goreng,Magelang,Sore,2,18000,27763.109152369925
+Americano,Semarang,Sore,2,22000,46605.222955404024
+Roti Bakar,Magelang,Sore,2,22000,46635.07725208368
+Kentang Goreng,Semarang,Sore,3,25000,82774.07609589092
+Kopi Susu,Magelang,Pagi,5,22000,98951.53941812781
+Cappuccino,Semarang,Sore,5,25000,127879.97791582246
+Americano,Semarang,Pagi,4,15000,60576.960501935384
+Kopi Susu,Yogyakarta,Sore,3,22000,65168.43985309498
+Roti Bakar,Yogyakarta,Malam,5,22000,117958.20821888834
+Kopi Susu,Magelang,Siang,4,25000,109977.83169448201
+Kopi Susu,Magelang,Malam,1,15000,16164.895495322622
+Kopi Susu,Magelang,Siang,2,20000,43025.23463497827
+Roti Bakar,Semarang,Sore,5,18000,86717.15281119444
+Cappuccino,Semarang,Pagi,2,25000,55098.11841652548
+Americano,Magelang,Pagi,3,15000,32345.642983082646
+Roti Bakar,Yogyakarta,Siang,1,15000,22366.07861096733
+Roti Bakar,Semarang,Malam,3,25000,84893.76837947249
+Es Teh,Semarang,Pagi,2,18000,13381.89088410501
+Kentang Goreng,Magelang,Sore,1,20000,26622.36727389761
+Roti Bakar,Magelang,Malam,4,30000,112329.86447138718
+Cappuccino,Magelang,Pagi,5,22000,106599.73591992991
+Kopi Susu,Yogyakarta,Malam,5,20000,99607.63737868691
+Roti Bakar,Yogyakarta,Siang,2,15000,36849.880528048874
+Americano,Semarang,Pagi,2,25000,68306.51354747982
+Es Teh,Semarang,Siang,1,20000,18956.716828334964
+Kopi Susu,Yogyakarta,Siang,1,25000,25701.723028067398
+Kopi Susu,Semarang,Pagi,3,30000,76896.2736767989
+Kopi Susu,Yogyakarta,Malam,5,22000,106530.50571451068
+Roti Bakar,Yogyakarta,Siang,3,18000,58529.96896903219
+Es Teh,Magelang,Siang,1,30000,20230.473340007404
+Roti Bakar,Semarang,Sore,5,18000,96860.89169608199
+Es Teh,Yogyakarta,Siang,2,25000,49804.81231495742
+Es Teh,Magelang,Pagi,4,20000,86041.81874088504
+Roti Bakar,Magelang,Siang,5,15000,75417.07314854777
+Roti Bakar,Semarang,Sore,1,25000,26873.20504251699
+Kopi Susu,Semarang,Malam,3,22000,87707.65100735197
+Americano,Magelang,Sore,4,25000,90394.47221425596
+Roti Bakar,Magelang,Sore,4,22000,79803.26271879186
+Roti Bakar,Semarang,Malam,2,25000,61078.43400453507
+Americano,Magelang,Sore,4,20000,78118.55375869252
+Es Teh,Magelang,Malam,5,30000,141724.23990981717
+Cappuccino,Magelang,Malam,4,20000,99829.40173547345
+Cappuccino,Yogyakarta,Siang,2,15000,35542.27281290991
+Es Teh,Semarang,Pagi,4,22000,76670.43338558178
+Cappuccino,Semarang,Sore,1,22000,22647.906216331063
+Americano,Yogyakarta,Sore,3,25000,64866.88711642944
+Americano,Semarang,Siang,5,15000,76842.04436194988
+Cappuccino,Semarang,Malam,5,30000,155788.2940252166
+Kentang Goreng,Semarang,Sore,3,30000,93752.83830434557
+Es Teh,Magelang,Sore,4,22000,83623.49315782155
+Americano,Magelang,Siang,1,22000,19799.429587480616
+Roti Bakar,Magelang,Siang,3,22000,66067.13006045677
+Cappuccino,Semarang,Siang,5,30000,148807.83688908277
+Cappuccino,Magelang,Siang,4,15000,74717.20784329338
+Cappuccino,Magelang,Malam,3,18000,61205.35343132297
+Cappuccino,Semarang,Malam,3,25000,84175.0254300463
+Kentang Goreng,Magelang,Malam,4,25000,104153.61163833176
+Kentang Goreng,Yogyakarta,Sore,4,18000,68033.79199506105
+Cappuccino,Magelang,Siang,3,15000,47074.00936296509
+Roti Bakar,Yogyakarta,Siang,1,25000,17942.255221929387
+Americano,Magelang,Siang,3,15000,57450.814872098286
+Es Teh,Magelang,Pagi,2,30000,58710.18382772487
+Roti Bakar,Yogyakarta,Siang,1,22000,32766.296903476563
+Kentang Goreng,Magelang,Malam,5,25000,117937.43867612483
+Roti Bakar,Yogyakarta,Pagi,2,30000,44338.651165110874
+Kentang Goreng,Yogyakarta,Malam,2,18000,46171.38015516621
+Kopi Susu,Magelang,Sore,1,22000,11092.361530810449
+Cappuccino,Magelang,Pagi,5,25000,127923.71612294248
+Roti Bakar,Semarang,Pagi,5,30000,150305.99178806844
+Roti Bakar,Semarang,Siang,1,25000,27364.044188225052
+Kopi Susu,Semarang,Sore,3,25000,71867.63101593906
+Americano,Semarang,Siang,4,20000,85105.6714535622
+Kentang Goreng,Magelang,Malam,1,22000,14715.633287000375
+Es Teh,Semarang,Siang,4,15000,62777.34939955812
+Americano,Yogyakarta,Pagi,3,15000,42774.488153823375
+Americano,Semarang,Siang,2,22000,41591.94976685686
+Kopi Susu,Semarang,Sore,1,15000,8496.148557216799
+Roti Bakar,Yogyakarta,Malam,4,25000,89308.4131769081
+Cappuccino,Magelang,Siang,4,15000,60430.76635406147
+Kentang Goreng,Semarang,Malam,2,18000,47285.57261664609
+Cappuccino,Yogyakarta,Pagi,2,30000,60779.63599743742
+Es Teh,Magelang,Pagi,4,22000,74333.04737101578
+Americano,Yogyakarta,Malam,4,22000,83527.4231013015
+Roti Bakar,Magelang,Pagi,5,25000,126789.36617186954
+Kopi Susu,Semarang,Sore,3,18000,66149.78500103805
+Americano,Yogyakarta,Pagi,3,30000,101296.54100724949
+Cappuccino,Magelang,Pagi,1,22000,10779.350532864994
+Roti Bakar,Semarang,Malam,2,18000,11961.4300218184
+Kentang Goreng,Yogyakarta,Pagi,4,25000,83394.0392808736
+Roti Bakar,Magelang,Malam,4,20000,75019.25333770186
+Kentang Goreng,Magelang,Siang,2,30000,48496.013836262646
+Roti Bakar,Magelang,Malam,2,15000,34784.15757341211
+Es Teh,Magelang,Pagi,3,15000,61745.79546383454
+Cappuccino,Yogyakarta,Malam,3,15000,38812.7459375773
+Es Teh,Yogyakarta,Siang,3,30000,99026.72220284412
+Es Teh,Magelang,Pagi,5,30000,163092.98380774364
+Kopi Susu,Magelang,Siang,2,18000,34410.66508958313
+Kentang Goreng,Semarang,Malam,4,25000,98037.60075690785
+Es Teh,Yogyakarta,Pagi,5,30000,161015.41740774742
+Roti Bakar,Magelang,Malam,3,30000,79011.12607880912
+Es Teh,Yogyakarta,Siang,3,15000,43958.45119684765
+Roti Bakar,Magelang,Pagi,5,18000,88396.99950623704
+Kopi Susu,Yogyakarta,Malam,1,22000,27909.74586473998
+Es Teh,Semarang,Pagi,2,18000,37540.74923731543
+Kentang Goreng,Yogyakarta,Pagi,1,22000,21805.771296171388
+Roti Bakar,Magelang,Sore,2,15000,25435.798575562047
+Kentang Goreng,Magelang,Malam,2,22000,46846.396429144035
+Kentang Goreng,Semarang,Malam,4,25000,101160.59490282706
+Cappuccino,Magelang,Sore,1,22000,28221.571340090857
+Es Teh,Yogyakarta,Malam,5,22000,110454.34331554695
+Roti Bakar,Yogyakarta,Siang,1,20000,24052.323029778712
+Cappuccino,Yogyakarta,Siang,2,22000,42363.34526885538
+Es Teh,Semarang,Malam,1,30000,30128.08006298846
+Roti Bakar,Yogyakarta,Malam,5,25000,136284.0844739123
+Kentang Goreng,Yogyakarta,Siang,4,30000,106902.2451035889
+Kentang Goreng,Magelang,Siang,5,25000,127856.13141308236
+Kopi Susu,Semarang,Pagi,4,30000,118650.79990527859
+Roti Bakar,Semarang,Malam,3,30000,84473.04982869697
+Kopi Susu,Semarang,Pagi,1,22000,12073.190278043325
+Kentang Goreng,Semarang,Malam,4,22000,80852.59635169503
+Kopi Susu,Yogyakarta,Sore,4,30000,139032.53354824084
+Americano,Semarang,Sore,1,18000,14003.595648932776
+Americano,Semarang,Siang,4,18000,77927.60924264533
+Americano,Semarang,Pagi,4,30000,126450.64812308928
+Americano,Semarang,Pagi,1,15000,14050.278252803124
+Cappuccino,Yogyakarta,Siang,2,25000,55130.05409863509
+Kentang Goreng,Yogyakarta,Malam,3,20000,58583.13252096767
+Kentang Goreng,Semarang,Malam,5,22000,105863.23374397508
+Kentang Goreng,Yogyakarta,Siang,1,30000,33319.38503668929
+Kopi Susu,Semarang,Malam,3,20000,67147.51257505294
+Kopi Susu,Semarang,Malam,1,18000,26918.475031206486
+Americano,Semarang,Pagi,5,15000,61166.77852494999
+Es Teh,Yogyakarta,Siang,1,18000,22333.522564938947
+Kentang Goreng,Semarang,Malam,5,15000,69084.96923370831
+Cappuccino,Yogyakarta,Siang,4,18000,75118.40226195366
+Kopi Susu,Magelang,Malam,1,20000,18301.288477235
+Americano,Yogyakarta,Siang,3,20000,61177.86471634674
+Cappuccino,Yogyakarta,Siang,4,22000,86458.27064827939
+Kopi Susu,Yogyakarta,Sore,1,25000,10120.910303494918
+Kopi Susu,Magelang,Pagi,3,20000,65911.70189801611
+Roti Bakar,Magelang,Sore,3,18000,55521.6345651367
+Kopi Susu,Yogyakarta,Malam,4,30000,111880.65449588477
+Roti Bakar,Magelang,Pagi,3,20000,47311.15034944865
+Es Teh,Magelang,Siang,1,20000,29404.509081687447
+Americano,Yogyakarta,Sore,2,18000,28402.14643130284
+Americano,Yogyakarta,Siang,1,15000,23157.974106956113
+Kentang Goreng,Magelang,Siang,4,20000,81539.57675940011
+Es Teh,Yogyakarta,Pagi,4,18000,81594.76868582008
+Kentang Goreng,Semarang,Pagi,4,22000,96740.41704062693
+Americano,Magelang,Pagi,3,15000,66096.796191616
+Americano,Magelang,Malam,5,30000,152490.2142762399
+Es Teh,Semarang,Pagi,4,30000,113159.53836068373
+Kopi Susu,Semarang,Siang,3,18000,44133.44653401288
+Cappuccino,Yogyakarta,Sore,4,18000,74438.71541663077
+Roti Bakar,Yogyakarta,Siang,4,25000,100458.74529942586
+Roti Bakar,Yogyakarta,Sore,2,22000,53013.24308490629
+Es Teh,Semarang,Sore,5,15000,84982.30520517734
+Kopi Susu,Semarang,Sore,1,18000,26885.470433669296
+Es Teh,Magelang,Sore,1,30000,28349.529086258448
+Cappuccino,Magelang,Malam,4,20000,76446.99616293218
+Kopi Susu,Yogyakarta,Sore,2,25000,58879.53275939284
+Roti Bakar,Yogyakarta,Siang,5,18000,78564.97934574194
+Kopi Susu,Semarang,Pagi,2,15000,31105.729223375056
+Cappuccino,Semarang,Siang,4,30000,120906.99580883453
+Cappuccino,Yogyakarta,Sore,4,25000,101612.22160821535
+Americano,Semarang,Malam,3,15000,48003.27407932343
+Kentang Goreng,Yogyakarta,Pagi,1,18000,25516.58032930991
+Kopi Susu,Magelang,Siang,3,30000,86733.92347018725
+Roti Bakar,Magelang,Siang,2,22000,58171.39851860197
+Cappuccino,Semarang,Pagi,2,25000,53331.44119007323
+Roti Bakar,Yogyakarta,Malam,3,18000,56407.98303891951
+Americano,Semarang,Sore,5,20000,86852.78475374012
+Roti Bakar,Magelang,Pagi,2,25000,44596.23670018365
+Cappuccino,Yogyakarta,Malam,2,22000,51316.93143865104
+Roti Bakar,Magelang,Pagi,5,20000,106933.67188526379
+Cappuccino,Semarang,Siang,3,15000,31640.330856312823
+Kentang Goreng,Yogyakarta,Malam,4,25000,107517.57706028812
+Americano,Semarang,Malam,1,30000,38223.20243971993
+Kopi Susu,Yogyakarta,Sore,1,15000,8936.824631318661
+Kentang Goreng,Magelang,Siang,5,18000,86166.78082341151
+Es Teh,Yogyakarta,Sore,3,15000,43400.93571541635
+Es Teh,Semarang,Siang,5,25000,123889.07741549278
+Kentang Goreng,Magelang,Malam,5,25000,119328.15723277227
+Americano,Magelang,Siang,3,20000,55744.891913371604
+Americano,Yogyakarta,Pagi,4,25000,103484.63342504256
+Es Teh,Yogyakarta,Malam,2,18000,39256.305792898966
+Cappuccino,Yogyakarta,Sore,1,15000,2877.5126776031775
+Roti Bakar,Semarang,Sore,2,22000,44318.672968834275
+Kopi Susu,Magelang,Pagi,2,20000,44161.04192712748
+Americano,Magelang,Pagi,4,15000,67568.4931588488
+Americano,Magelang,Sore,3,18000,50565.85028290981
+Cappuccino,Semarang,Sore,3,20000,61010.92045141649
+Cappuccino,Magelang,Sore,1,30000,27367.694354694195
+Kopi Susu,Magelang,Pagi,3,22000,72660.18290712273
+Americano,Yogyakarta,Pagi,2,20000,38285.067529987384
+Cappuccino,Yogyakarta,Malam,2,30000,64322.842553355804
+Kopi Susu,Yogyakarta,Siang,4,15000,60966.83648715878
+Roti Bakar,Yogyakarta,Pagi,5,30000,138839.1891351852
+Americano,Yogyakarta,Sore,4,30000,122407.33987632542
+Americano,Magelang,Pagi,4,18000,73399.63454394187
+Kopi Susu,Magelang,Siang,5,15000,82937.52198788097
+Es Teh,Yogyakarta,Siang,2,15000,42389.06179419313
+Cappuccino,Magelang,Malam,3,15000,45091.38477062082
+Es Teh,Semarang,Siang,1,15000,8779.874017177775
+Cappuccino,Yogyakarta,Sore,2,30000,66820.32986916749
+Americano,Yogyakarta,Siang,1,22000,31497.657405652804
+Kopi Susu,Yogyakarta,Sore,2,15000,28618.029151452643
+Kentang Goreng,Yogyakarta,Malam,5,30000,149501.62177102064
+Es Teh,Magelang,Pagi,3,20000,68408.98365064974
+Roti Bakar,Yogyakarta,Pagi,4,18000,73129.308426819
+Roti Bakar,Yogyakarta,Siang,5,30000,151418.04488451834
+Cappuccino,Magelang,Malam,3,15000,44926.53301269979
+Es Teh,Yogyakarta,Siang,4,18000,65686.57308624646
+Americano,Yogyakarta,Siang,4,30000,125984.52013388168
+Es Teh,Magelang,Sore,5,25000,127224.2294943982
+Cappuccino,Semarang,Malam,2,18000,33880.23403450935
+Kopi Susu,Magelang,Siang,3,22000,49202.217843543076
+Kentang Goreng,Magelang,Pagi,5,20000,93051.51052955183
+Kopi Susu,Magelang,Siang,2,25000,44504.79416486065
+Cappuccino,Semarang,Pagi,4,22000,91806.44842780326
+Es Teh,Semarang,Malam,1,22000,21105.582518624025
+Es Teh,Magelang,Siang,3,15000,39804.382366851714
+Cappuccino,Yogyakarta,Sore,5,18000,99978.99824946135
+Cappuccino,Semarang,Pagi,4,25000,118967.76171187924
+Es Teh,Yogyakarta,Sore,2,30000,68976.7056182274
+Es Teh,Semarang,Siang,3,25000,83797.76786323253
+Cappuccino,Yogyakarta,Pagi,5,25000,130725.1768944985
+Kentang Goreng,Magelang,Pagi,5,22000,107603.32089822399
+Kopi Susu,Yogyakarta,Sore,1,18000,26774.251792125302
+Kentang Goreng,Semarang,Siang,3,20000,57379.23772892369
+Es Teh,Yogyakarta,Siang,5,30000,156395.86168214
+Es Teh,Magelang,Pagi,2,15000,28036.272101722065
+Americano,Semarang,Sore,3,15000,38187.26357118272
+Es Teh,Semarang,Malam,1,22000,35509.60914036221
+Americano,Yogyakarta,Malam,2,30000,62024.81236414313
+Americano,Semarang,Siang,1,30000,22914.962211966966
+Americano,Semarang,Sore,3,15000,41138.98773343782
+Kopi Susu,Magelang,Pagi,4,30000,123579.2034348118
+Kopi Susu,Yogyakarta,Siang,4,15000,55462.87276263604
+Kentang Goreng,Yogyakarta,Siang,2,20000,27765.91062031447
+Cappuccino,Semarang,Pagi,2,25000,39993.9038847776
+Kopi Susu,Magelang,Malam,4,30000,116628.19849801622
+Es Teh,Yogyakarta,Malam,2,30000,52595.39694672694
+Roti Bakar,Magelang,Pagi,5,20000,89890.01851210892
+Cappuccino,Semarang,Siang,2,18000,30855.429249789122
+Es Teh,Magelang,Pagi,1,22000,24012.081464878767
+Cappuccino,Magelang,Sore,4,20000,72531.61652188865
+Cappuccino,Semarang,Sore,4,18000,67268.06204622792
+Kentang Goreng,Magelang,Pagi,5,18000,82234.27997064708
+Es Teh,Yogyakarta,Malam,5,15000,77056.02380647114
+Es Teh,Magelang,Siang,2,20000,30847.815107436763
+Kentang Goreng,Semarang,Sore,5,15000,74068.79254563316
+Kopi Susu,Yogyakarta,Pagi,3,22000,69448.3686421358
+Es Teh,Semarang,Malam,4,25000,92708.13429644816
+Cappuccino,Semarang,Siang,1,30000,29517.466014557493
+Kentang Goreng,Magelang,Malam,1,15000,28338.754435254916
+Kopi Susu,Yogyakarta,Sore,4,30000,123116.409267231
+Kentang Goreng,Semarang,Sore,5,22000,95127.47712395959
+Kopi Susu,Semarang,Pagi,4,20000,68759.0062691992
+Americano,Yogyakarta,Sore,4,15000,65672.68742980594
+Kopi Susu,Semarang,Sore,4,18000,69763.12536093878
+Es Teh,Yogyakarta,Pagi,1,30000,24390.388989765564
+Roti Bakar,Magelang,Sore,4,18000,71214.4899626793
+Es Teh,Magelang,Pagi,5,25000,122361.22917370847
+Roti Bakar,Yogyakarta,Malam,4,20000,91297.99866380035
+Kopi Susu,Semarang,Siang,4,25000,98971.0705876301
+Kentang Goreng,Yogyakarta,Sore,5,18000,81787.94374245481
+Americano,Magelang,Siang,3,22000,69156.6573207838
+Roti Bakar,Magelang,Sore,3,20000,56129.594347191116
+Roti Bakar,Semarang,Sore,5,22000,117511.17594942551
+Kentang Goreng,Yogyakarta,Pagi,1,30000,38662.801670235465
+Roti Bakar,Magelang,Sore,4,20000,87309.09246791569
+Kopi Susu,Yogyakarta,Pagi,2,18000,27466.214700822853
+Americano,Magelang,Pagi,4,15000,57528.98244460276
+Cappuccino,Magelang,Malam,4,20000,71603.94236401505
+Cappuccino,Yogyakarta,Malam,3,30000,81919.76151878753
+Americano,Magelang,Siang,2,30000,54463.58396988304
+Americano,Semarang,Sore,3,15000,54591.48111082528
+Americano,Yogyakarta,Sore,2,20000,37912.2618567639
+Es Teh,Semarang,Pagi,5,20000,103300.1797561889
+Roti Bakar,Magelang,Siang,2,18000,32770.88691369697
+Roti Bakar,Semarang,Pagi,2,25000,33517.18857233133
+Roti Bakar,Magelang,Malam,1,22000,21028.04807800777
+Cappuccino,Magelang,Siang,5,30000,154655.0331032861
+Roti Bakar,Magelang,Siang,3,22000,72589.14149842251
+Kopi Susu,Semarang,Malam,4,22000,81715.34864253216
+Roti Bakar,Magelang,Siang,1,22000,16851.562530024068
+Es Teh,Yogyakarta,Sore,4,25000,105570.0857166264
+Kopi Susu,Yogyakarta,Sore,2,18000,38470.22048235883
+Americano,Semarang,Sore,3,20000,53320.737883448586
+Roti Bakar,Yogyakarta,Pagi,4,30000,113326.50475354593
+Americano,Yogyakarta,Siang,3,15000,51282.932181574026
+Americano,Magelang,Pagi,5,15000,73887.87471263618
+Es Teh,Semarang,Pagi,1,30000,18983.46835588735
+Cappuccino,Semarang,Malam,5,30000,153862.55291971826
+Es Teh,Yogyakarta,Sore,4,22000,88927.27194262481
+Cappuccino,Yogyakarta,Sore,1,18000,16424.23389718297
+Americano,Magelang,Sore,5,18000,93685.52764899189
+Americano,Semarang,Malam,2,30000,65844.66615445378
+Es Teh,Yogyakarta,Sore,4,20000,79834.07333418247
+Americano,Yogyakarta,Pagi,2,30000,52740.272159095606
+Es Teh,Yogyakarta,Malam,4,18000,78180.10878592465
+Kopi Susu,Yogyakarta,Pagi,2,20000,31209.50275812911
+Roti Bakar,Magelang,Sore,2,15000,30226.175200216916
+Americano,Yogyakarta,Sore,5,30000,165449.667621004
+Kopi Susu,Magelang,Pagi,5,30000,139627.22048711628
+Kentang Goreng,Magelang,Siang,3,22000,61325.07573310396
+Kopi Susu,Yogyakarta,Sore,2,22000,32119.09133051207
+Americano,Magelang,Sore,5,20000,93794.78831805957
+Kopi Susu,Magelang,Siang,1,30000,32680.4987255793
+Americano,Semarang,Siang,2,18000,38686.82934824033
+Americano,Magelang,Malam,4,30000,113044.63431555482
+Cappuccino,Semarang,Pagi,5,18000,89966.73729098667
+Cappuccino,Semarang,Pagi,4,25000,106194.11388430034
+Americano,Yogyakarta,Malam,2,30000,63302.367782998874
+Es Teh,Semarang,Malam,1,25000,23980.82909382546
+Kentang Goreng,Yogyakarta,Siang,4,20000,71956.57628134027
+Kopi Susu,Yogyakarta,Sore,4,20000,82609.71811110202
+Es Teh,Semarang,Siang,2,25000,55076.112560644004
+Kentang Goreng,Yogyakarta,Sore,4,18000,68616.97719108878
+Americano,Semarang,Malam,5,30000,136533.61680921132
+Cappuccino,Yogyakarta,Malam,3,20000,63286.17645813404
+Kentang Goreng,Magelang,Pagi,5,30000,148151.04980221586
+Cappuccino,Yogyakarta,Sore,3,15000,53457.700729122305
+Cappuccino,Yogyakarta,Pagi,4,30000,110109.87541414256
+Kentang Goreng,Yogyakarta,Sore,1,18000,21180.336021260737
+Roti Bakar,Semarang,Pagi,4,18000,72465.9527977245
+Roti Bakar,Semarang,Malam,2,30000,69616.64681942406
+Kopi Susu,Magelang,Siang,4,15000,54900.06002014856
+Kentang Goreng,Yogyakarta,Malam,2,25000,50391.49529457461
+Americano,Magelang,Malam,2,15000,45211.92880719007
+Kentang Goreng,Yogyakarta,Pagi,2,25000,46132.294192052505
+Cappuccino,Magelang,Malam,2,20000,48417.07955872345
+Kopi Susu,Yogyakarta,Pagi,5,15000,58290.60132415816
+Americano,Semarang,Sore,2,25000,55250.926264716305
+Americano,Semarang,Siang,1,25000,12299.24008414318
+Roti Bakar,Semarang,Pagi,4,22000,92771.1433241677
+Roti Bakar,Magelang,Malam,5,18000,91866.07256026448
+Roti Bakar,Yogyakarta,Siang,2,15000,21930.82910819239
+Kentang Goreng,Semarang,Pagi,1,15000,17629.315305103875
+Roti Bakar,Yogyakarta,Pagi,3,20000,46330.435852791605
+Cappuccino,Magelang,Siang,2,15000,21312.01555465732
+Kopi Susu,Magelang,Malam,1,18000,12887.767089263794
+Kopi Susu,Magelang,Malam,4,20000,79635.18210871301
+Cappuccino,Yogyakarta,Sore,1,20000,19748.076866857802
+Es Teh,Yogyakarta,Sore,5,22000,109389.27732767111
+Cappuccino,Magelang,Sore,3,18000,67741.21267691432
+Cappuccino,Yogyakarta,Malam,5,22000,112674.63779971069
+Roti Bakar,Semarang,Pagi,2,22000,44450.111124754236
+Kentang Goreng,Semarang,Pagi,3,18000,67270.5810651417
+Es Teh,Yogyakarta,Sore,2,18000,35852.904452920506
+Es Teh,Semarang,Malam,5,30000,155208.49929768662
+Americano,Magelang,Pagi,5,22000,103849.19307831561
+Americano,Yogyakarta,Pagi,1,22000,29857.07345638779
+Roti Bakar,Magelang,Sore,5,25000,111369.02016701935
+Es Teh,Yogyakarta,Siang,3,15000,37278.464512842926
+Roti Bakar,Yogyakarta,Siang,3,20000,60915.6726624019
+Kopi Susu,Yogyakarta,Malam,2,20000,36237.37136428034
+Kentang Goreng,Yogyakarta,Malam,3,18000,56072.724382021835
+Americano,Magelang,Siang,4,15000,59940.02629378264
+Americano,Semarang,Pagi,1,15000,13717.944240282472
+Roti Bakar,Magelang,Sore,2,18000,30741.93892034732
+Roti Bakar,Semarang,Malam,4,30000,131423.13556854977
+Americano,Semarang,Pagi,4,25000,94005.76226591005
+Roti Bakar,Semarang,Sore,5,25000,119353.40549110195
+Es Teh,Magelang,Malam,5,18000,92769.95115022206
+Es Teh,Yogyakarta,Malam,3,25000,77218.91478024538
+Roti Bakar,Semarang,Siang,3,20000,48782.4205015918
+Roti Bakar,Yogyakarta,Sore,3,20000,64757.50856486321
+Kentang Goreng,Semarang,Sore,2,15000,26372.5276400991
+Roti Bakar,Magelang,Malam,5,25000,115643.72462081345
+Roti Bakar,Magelang,Siang,1,18000,27771.715055941568
+Roti Bakar,Magelang,Sore,2,18000,40764.65421105344
+Kentang Goreng,Semarang,Malam,3,18000,42179.78508201637
+Americano,Semarang,Pagi,4,30000,116238.98806092003
+Americano,Yogyakarta,Siang,3,30000,83821.17396396493
+Cappuccino,Magelang,Pagi,2,22000,45005.53673937167
+Kopi Susu,Semarang,Pagi,1,25000,10611.933781686923
+Kentang Goreng,Magelang,Malam,3,15000,41816.06225692242
+Cappuccino,Magelang,Pagi,1,15000,14178.941905739102
+Kentang Goreng,Yogyakarta,Siang,2,15000,36865.449960808925
+Kopi Susu,Yogyakarta,Sore,3,18000,55904.448604374935
+Kopi Susu,Yogyakarta,Siang,5,20000,115103.63217730889
+Roti Bakar,Magelang,Malam,2,15000,34582.98960954408
+Kopi Susu,Magelang,Malam,5,22000,105591.3420601405
+Roti Bakar,Yogyakarta,Pagi,4,22000,75528.57263411395
+Kopi Susu,Yogyakarta,Sore,2,15000,34952.61559709491
+Americano,Semarang,Pagi,2,18000,27136.170932220673
+Kopi Susu,Magelang,Siang,4,25000,93491.1936581403
+Americano,Yogyakarta,Malam,5,15000,56699.912169753916
+Kentang Goreng,Yogyakarta,Siang,2,15000,20515.24394081089
+Roti Bakar,Yogyakarta,Pagi,2,30000,73966.74846094147
+Roti Bakar,Semarang,Pagi,2,25000,53467.71203650511
+Es Teh,Magelang,Malam,5,15000,81055.84895560054
+Roti Bakar,Yogyakarta,Sore,2,15000,36464.72032058908
+Kentang Goreng,Yogyakarta,Sore,2,22000,36271.778346426916
+Americano,Semarang,Sore,1,25000,29589.32401929582
+Cappuccino,Semarang,Malam,4,20000,80799.99853125912
+Americano,Semarang,Siang,2,15000,22958.25340101801
+Cappuccino,Magelang,Pagi,5,22000,108273.66728268104
+Americano,Magelang,Siang,2,22000,49775.8565797439
+Roti Bakar,Yogyakarta,Sore,4,22000,101071.18009529193
+Roti Bakar,Magelang,Malam,1,15000,11614.578033430902
+Americano,Magelang,Sore,1,15000,19915.729852924713
+Roti Bakar,Semarang,Sore,2,25000,48735.1221385357
+Kopi Susu,Yogyakarta,Siang,5,15000,77385.52300378511
+Kentang Goreng,Semarang,Siang,1,22000,11514.310279821924
+Roti Bakar,Yogyakarta,Pagi,5,30000,147339.01419868093
+Cappuccino,Yogyakarta,Pagi,4,22000,91563.56364821341
+Americano,Semarang,Malam,3,15000,52079.31992827788
+Kentang Goreng,Semarang,Malam,1,22000,28405.75955888714
+Americano,Magelang,Malam,3,20000,52186.94536069484
+Americano,Semarang,Siang,3,20000,48223.86182023183
+Roti Bakar,Magelang,Siang,2,18000,39583.807722502126
+Roti Bakar,Yogyakarta,Siang,1,22000,25353.198110572357
+Roti Bakar,Semarang,Siang,3,25000,65232.12483567487
+Roti Bakar,Semarang,Pagi,2,15000,33910.63059761327
+Kopi Susu,Semarang,Sore,5,20000,112898.53232687259
+Kopi Susu,Magelang,Pagi,3,20000,52919.69872447884
+Americano,Magelang,Pagi,5,22000,116322.79570298787
+Es Teh,Magelang,Pagi,4,20000,87740.16757795325
+Roti Bakar,Semarang,Pagi,1,20000,15073.798723118864
+Cappuccino,Yogyakarta,Pagi,1,15000,16592.9370809343
+Kentang Goreng,Magelang,Malam,2,25000,39599.94194654254
+Es Teh,Magelang,Sore,3,25000,82755.49113942738
+Americano,Semarang,Siang,3,30000,108179.88920533446
+Cappuccino,Yogyakarta,Malam,3,20000,76386.73143093236
+Kopi Susu,Magelang,Sore,4,15000,56511.67781053115
+Kentang Goreng,Magelang,Malam,4,18000,63045.555785691635
+Americano,Magelang,Sore,1,30000,40232.39655021541
+Cappuccino,Yogyakarta,Malam,3,25000,69108.9373176917
+Kopi Susu,Magelang,Sore,3,15000,52239.81508603362
+Kentang Goreng,Magelang,Pagi,4,18000,72479.32871612438
+Roti Bakar,Magelang,Malam,5,30000,129834.10950962565
+Roti Bakar,Magelang,Siang,1,15000,27666.88119699875
+Kentang Goreng,Semarang,Malam,4,25000,103330.39223007139
+Es Teh,Semarang,Siang,3,22000,71419.39261994595
+Es Teh,Yogyakarta,Malam,4,15000,53395.03811876641
+Cappuccino,Magelang,Malam,4,20000,72523.27602491918
+Kopi Susu,Semarang,Siang,2,15000,28797.51299142684
+Cappuccino,Yogyakarta,Siang,5,15000,84700.37840416544
+Es Teh,Semarang,Pagi,2,30000,63366.26187093533
+Es Teh,Semarang,Malam,3,22000,75131.37591696416
+Cappuccino,Yogyakarta,Sore,3,25000,77345.97668360599
+Kentang Goreng,Magelang,Malam,4,15000,56501.20959160838
+Roti Bakar,Magelang,Malam,3,22000,55055.01716697027
+Es Teh,Magelang,Malam,5,22000,120122.26856065399
+Kentang Goreng,Semarang,Malam,5,30000,147398.86234303564
+Kentang Goreng,Semarang,Pagi,4,20000,77133.01830855734
+Es Teh,Semarang,Pagi,5,30000,150214.36528632508
+Americano,Semarang,Malam,3,15000,39308.72222591564
+Cappuccino,Magelang,Malam,1,25000,19719.398829604674
+Kentang Goreng,Magelang,Malam,3,25000,68726.70397384431
+Kentang Goreng,Yogyakarta,Malam,1,18000,27313.67602254742
+Es Teh,Yogyakarta,Malam,3,18000,51136.12215873046
+Es Teh,Semarang,Sore,4,25000,106818.39277096414
+Kopi Susu,Semarang,Pagi,5,25000,122562.21281063967
+Americano,Magelang,Sore,2,20000,37826.56458019616
+Cappuccino,Magelang,Malam,3,25000,82825.0719690568
+Kopi Susu,Yogyakarta,Sore,3,15000,50220.972369574476
+Kentang Goreng,Magelang,Sore,1,15000,9649.354227860904
+Kentang Goreng,Yogyakarta,Sore,4,30000,125024.7742365259
+Es Teh,Magelang,Pagi,4,15000,66759.07909610249
+Es Teh,Magelang,Sore,3,20000,57254.84581466517
+Cappuccino,Magelang,Malam,4,25000,98101.67793939554
+Kopi Susu,Magelang,Pagi,3,20000,56253.49519838524
+Kopi Susu,Yogyakarta,Siang,3,18000,64142.11925255062
+Kentang Goreng,Magelang,Malam,2,20000,33483.68469474817
+Cappuccino,Semarang,Sore,4,15000,51554.71926827429
+Americano,Yogyakarta,Sore,1,18000,21341.250869093343
+Kopi Susu,Yogyakarta,Siang,2,18000,35538.69691535015
+Cappuccino,Magelang,Pagi,2,15000,30689.611605391186
+Kentang Goreng,Yogyakarta,Sore,4,15000,69287.26206340778
+Es Teh,Magelang,Pagi,4,18000,84206.91119867725
+Cappuccino,Magelang,Malam,1,25000,15051.669923632213
+Roti Bakar,Yogyakarta,Sore,2,18000,43474.80569957874
+Cappuccino,Magelang,Sore,4,25000,85544.4992565077
+Roti Bakar,Magelang,Sore,3,20000,53135.33519125167
+Kopi Susu,Semarang,Siang,1,18000,27116.56873186146
+Cappuccino,Magelang,Pagi,1,18000,25953.756102011557
+Kentang Goreng,Magelang,Siang,3,22000,63832.711204984014
+Es Teh,Yogyakarta,Pagi,3,20000,52416.27063497664
+Cappuccino,Magelang,Siang,5,22000,95633.62434909739
+Cappuccino,Yogyakarta,Malam,5,25000,134791.74860892177
+Americano,Semarang,Malam,5,18000,88115.79069397197
+Cappuccino,Semarang,Pagi,3,25000,65917.80057873196
+Kopi Susu,Magelang,Siang,3,15000,47760.77531230642
+Roti Bakar,Semarang,Sore,4,22000,90160.16752097027
+Kopi Susu,Semarang,Siang,1,20000,30945.92709234493
+Roti Bakar,Magelang,Sore,5,22000,108831.26176868961
+Es Teh,Semarang,Siang,1,25000,25876.284610862196
+Americano,Semarang,Siang,1,25000,14790.406123897177
+Cappuccino,Semarang,Sore,1,22000,16630.851836385555
+Es Teh,Yogyakarta,Pagi,1,20000,13483.956002297542
+Cappuccino,Yogyakarta,Sore,3,20000,65216.947631281335
+Roti Bakar,Magelang,Malam,1,30000,34169.507029813736
+Americano,Yogyakarta,Sore,2,15000,25470.39340032552
+Es Teh,Semarang,Siang,3,18000,56282.92074524993
+Americano,Yogyakarta,Siang,1,22000,12814.345819383085
+Americano,Semarang,Siang,1,20000,14406.141843146635
+Roti Bakar,Yogyakarta,Sore,1,22000,25126.80198056337
+Americano,Magelang,Pagi,2,30000,58809.85556071958
+Cappuccino,Magelang,Siang,2,22000,41623.65865233593
+Kopi Susu,Magelang,Pagi,5,22000,112744.51143990351
+Cappuccino,Magelang,Malam,2,30000,56574.96453688275
+Es Teh,Magelang,Pagi,4,25000,86436.06354180706
+Kopi Susu,Semarang,Sore,5,15000,65802.30526136648
+Kopi Susu,Magelang,Siang,2,22000,33369.30016045094
+Kentang Goreng,Yogyakarta,Siang,2,18000,34300.80722345651
+Es Teh,Magelang,Malam,3,20000,58745.84611547847
+Cappuccino,Semarang,Pagi,5,25000,121509.94885823013
+Kentang Goreng,Semarang,Siang,5,20000,105749.31488613205
+Cappuccino,Semarang,Sore,1,22000,34196.664278094744
+Americano,Semarang,Siang,3,15000,41593.95446038974
+Kentang Goreng,Yogyakarta,Pagi,1,30000,37453.91186632586
+Kentang Goreng,Yogyakarta,Pagi,1,15000,33555.768174980054
+Es Teh,Magelang,Siang,5,30000,150289.4944451964
+Kentang Goreng,Semarang,Sore,3,30000,98587.7502659458
+Kentang Goreng,Semarang,Pagi,4,15000,48569.71209889098
+Kopi Susu,Semarang,Malam,4,18000,72983.29779486582
+Kopi Susu,Yogyakarta,Siang,4,22000,94465.5816223257
+Cappuccino,Magelang,Pagi,3,18000,37645.84158880783
+Kopi Susu,Semarang,Malam,1,25000,18727.772892887835
+Kentang Goreng,Yogyakarta,Pagi,4,22000,84345.48816341619
+Cappuccino,Semarang,Sore,2,25000,57500.55307883971
+Kopi Susu,Semarang,Sore,1,25000,25548.48987494218
+Roti Bakar,Semarang,Pagi,2,25000,38772.482849549124
+Americano,Yogyakarta,Malam,2,25000,53628.43703440143
+Americano,Semarang,Malam,1,20000,26484.31558348791
+Kopi Susu,Magelang,Malam,4,18000,65661.94002723147
+Kentang Goreng,Yogyakarta,Pagi,5,25000,124048.33384952464
+Es Teh,Semarang,Sore,4,25000,104205.50454576191
+Kentang Goreng,Semarang,Siang,3,20000,67584.83818363145
+Cappuccino,Magelang,Pagi,3,18000,63009.514874017754
+Kentang Goreng,Yogyakarta,Sore,1,25000,26401.209069149132
+Kopi Susu,Semarang,Sore,1,18000,23513.70209567721
+Cappuccino,Yogyakarta,Siang,1,20000,18624.373030542418
+Kentang Goreng,Yogyakarta,Siang,1,20000,7394.869021371285
+Americano,Semarang,Siang,4,18000,84404.98786261269
+Roti Bakar,Yogyakarta,Sore,4,20000,85664.44330184086
+Roti Bakar,Yogyakarta,Siang,5,15000,73391.95754385476
+Kentang Goreng,Magelang,Siang,3,22000,73257.24323371852
+Kopi Susu,Magelang,Malam,5,18000,92598.11617460732
+Cappuccino,Magelang,Malam,4,30000,126363.04776504192
+Cappuccino,Semarang,Sore,2,18000,44155.85585586483
+Roti Bakar,Magelang,Pagi,3,25000,73615.59658401881
+Roti Bakar,Yogyakarta,Sore,2,22000,40867.75917308788
+Kopi Susu,Yogyakarta,Malam,4,15000,57153.77447085886
+Americano,Yogyakarta,Sore,2,25000,37348.3230430502
+Roti Bakar,Semarang,Siang,5,30000,151938.60374999876
+Americano,Semarang,Siang,2,20000,37134.36687291286
+Kopi Susu,Semarang,Sore,5,15000,80806.56407546756
+Roti Bakar,Magelang,Pagi,2,25000,42092.14848113715
+Kentang Goreng,Magelang,Sore,1,18000,16923.851876423047
+Kopi Susu,Yogyakarta,Malam,1,30000,31413.899246076293
+Roti Bakar,Semarang,Sore,4,22000,87952.65513210658
+Kopi Susu,Magelang,Malam,2,22000,37132.39068865685
+Americano,Magelang,Siang,2,18000,31175.05182828138
+Es Teh,Yogyakarta,Pagi,4,20000,78676.31707607726
+Americano,Yogyakarta,Malam,1,18000,26112.959794623195
+Roti Bakar,Semarang,Malam,1,20000,26785.222789553343
+Americano,Magelang,Sore,5,18000,100738.73430427218
+Kopi Susu,Semarang,Siang,1,22000,28838.337360043464
+Kopi Susu,Magelang,Sore,1,15000,13471.674775987425
+Roti Bakar,Yogyakarta,Sore,2,15000,24140.780514406455
+Kopi Susu,Semarang,Malam,5,18000,83023.67514247057
+Roti Bakar,Semarang,Sore,2,18000,28704.853775423482
+Cappuccino,Magelang,Pagi,1,20000,22305.368745015614
+Kentang Goreng,Semarang,Malam,5,15000,83232.01927428893
+Kopi Susu,Magelang,Siang,1,30000,19117.773995322816
+Es Teh,Semarang,Sore,2,20000,56574.790779125746
+Es Teh,Magelang,Siang,1,30000,21611.15664548149
+Cappuccino,Yogyakarta,Malam,3,18000,46145.02035121232
+Kopi Susu,Magelang,Sore,3,22000,74164.52850843339
+Americano,Magelang,Pagi,5,25000,127726.10967197592
+Roti Bakar,Semarang,Siang,2,20000,41681.54110698107
+Americano,Yogyakarta,Sore,2,22000,49885.79170635803
+Cappuccino,Magelang,Siang,4,25000,97845.64968521563
+Americano,Yogyakarta,Siang,4,25000,92104.84639097426
+Kopi Susu,Yogyakarta,Sore,3,18000,50244.90785151692
+Roti Bakar,Semarang,Sore,5,20000,96331.9307851065
+Kopi Susu,Yogyakarta,Pagi,2,30000,64131.41823115479
+Kopi Susu,Semarang,Siang,5,25000,111622.57181594252
+Cappuccino,Semarang,Sore,3,22000,81837.61897311464
+Es Teh,Magelang,Siang,4,22000,93428.04731435042
+Kentang Goreng,Semarang,Pagi,2,15000,24290.308919904957
+Kopi Susu,Magelang,Malam,1,15000,4539.037302914887
+Es Teh,Yogyakarta,Sore,4,15000,56110.93565057782
+Es Teh,Yogyakarta,Siang,3,18000,59744.58554575656
+Kopi Susu,Magelang,Sore,4,20000,73936.00192310371
+Cappuccino,Semarang,Siang,5,20000,97533.13483404057
+Cappuccino,Semarang,Pagi,2,30000,50907.954453273225
+Americano,Magelang,Sore,2,25000,42746.60831705528
+Kopi Susu,Magelang,Malam,1,18000,22738.71360871717
+Roti Bakar,Semarang,Malam,1,30000,17719.820700516168
+Kentang Goreng,Yogyakarta,Pagi,2,20000,29377.91443916382
+Es Teh,Semarang,Malam,1,22000,28302.939727358727
+Americano,Semarang,Pagi,3,30000,85182.79763827185
+Americano,Yogyakarta,Pagi,1,20000,12852.214564911614
+Cappuccino,Semarang,Siang,5,15000,84603.89790569324
+Americano,Semarang,Malam,3,22000,71923.56405003954
+Americano,Semarang,Sore,4,20000,67860.87343783824
+Es Teh,Yogyakarta,Sore,4,25000,112932.92677540626
+Americano,Semarang,Sore,5,22000,125457.57902678964
+Roti Bakar,Semarang,Sore,5,18000,87842.40932632949
+Cappuccino,Magelang,Sore,5,15000,78094.04772290985
+Kopi Susu,Semarang,Sore,3,22000,64432.590559945435
+Cappuccino,Semarang,Siang,5,15000,68686.03131671809
+Es Teh,Yogyakarta,Siang,4,22000,83773.04758801205
+Kopi Susu,Semarang,Malam,4,18000,65255.88694726305
+Es Teh,Semarang,Siang,4,25000,95650.25244156223
+Kopi Susu,Semarang,Sore,3,30000,92044.98940018428
+Kentang Goreng,Yogyakarta,Malam,5,25000,110940.49514088951
+Americano,Magelang,Pagi,4,20000,85362.59400453049
+Americano,Semarang,Malam,2,20000,36323.50561124643
+Kopi Susu,Yogyakarta,Siang,2,15000,22202.63918900748
+Kentang Goreng,Semarang,Pagi,4,22000,87567.8441157135
+Cappuccino,Semarang,Siang,1,30000,23916.578128235284
+Cappuccino,Magelang,Sore,1,25000,24395.239678680708
+Americano,Magelang,Siang,5,18000,73348.1676371504
+Kopi Susu,Semarang,Pagi,1,22000,17540.836992476878
+Kopi Susu,Magelang,Sore,1,25000,27556.391545561197
+Es Teh,Magelang,Siang,5,20000,99525.15156443912
+Kentang Goreng,Magelang,Siang,5,30000,140884.75780616546
+Kopi Susu,Yogyakarta,Siang,4,25000,100922.55823586855
+Es Teh,Magelang,Siang,5,30000,139354.114304976
+Es Teh,Magelang,Malam,2,25000,52763.17112283678
+Kopi Susu,Semarang,Pagi,3,30000,87633.11508648054
+Es Teh,Magelang,Pagi,2,15000,15716.961120977963
+Americano,Yogyakarta,Siang,5,30000,164555.4673424478
+Kentang Goreng,Yogyakarta,Siang,2,18000,45753.90047098804
+Kentang Goreng,Semarang,Pagi,4,20000,76181.11380671708
+Americano,Magelang,Malam,1,15000,31202.47945766627
+Roti Bakar,Semarang,Siang,4,15000,77190.68593263118
+Kentang Goreng,Semarang,Sore,1,25000,18971.489849064805
+Kopi Susu,Semarang,Sore,4,18000,84036.00522165955
+Kentang Goreng,Yogyakarta,Malam,5,20000,99100.34364754782
+Kopi Susu,Semarang,Siang,3,20000,58721.65238911067
+Americano,Magelang,Siang,1,20000,15051.630331672748
+Es Teh,Semarang,Malam,5,15000,90599.17296211878
+Kentang Goreng,Semarang,Malam,5,30000,148237.49212978885
+Cappuccino,Semarang,Pagi,2,18000,40286.73217182903
+Kentang Goreng,Yogyakarta,Siang,1,25000,32502.207814571375
+Americano,Magelang,Pagi,4,25000,103451.7886691917
+Americano,Semarang,Siang,4,18000,81405.77817851557
+Americano,Yogyakarta,Pagi,2,18000,43657.875660576836
+Es Teh,Yogyakarta,Pagi,3,18000,59201.11040619794
+Americano,Yogyakarta,Sore,4,25000,94442.25093566523
+Roti Bakar,Yogyakarta,Malam,4,20000,93582.22448378857
+Roti Bakar,Semarang,Malam,5,22000,114432.3327960343
+Americano,Yogyakarta,Siang,5,30000,147771.3077118129
+Cappuccino,Yogyakarta,Malam,1,18000,6432.247178142965
+Americano,Magelang,Siang,3,25000,67539.01106146866
+Kentang Goreng,Semarang,Pagi,5,18000,79907.62570836372
+Americano,Yogyakarta,Siang,2,20000,41589.91322258871
+Americano,Yogyakarta,Malam,5,20000,89126.55416079328
+Kentang Goreng,Yogyakarta,Sore,4,25000,98893.62116518342
+Kentang Goreng,Magelang,Malam,1,20000,-6430.423974840509
+Kopi Susu,Magelang,Sore,1,22000,17035.053379576937
+Cappuccino,Semarang,Sore,4,22000,93108.16206839262
+Kopi Susu,Semarang,Siang,4,22000,101953.0348332984
+Kentang Goreng,Yogyakarta,Siang,2,20000,41139.58453063022
+Kentang Goreng,Semarang,Malam,2,15000,34601.8012711181
+Kentang Goreng,Magelang,Malam,3,30000,92915.2125639569
+Cappuccino,Yogyakarta,Pagi,2,22000,33482.33783111525
+Kentang Goreng,Yogyakarta,Malam,1,18000,6951.889841397544
+Kentang Goreng,Magelang,Sore,2,15000,18995.72222989901
+Roti Bakar,Yogyakarta,Sore,1,22000,20969.84056422889
+Cappuccino,Yogyakarta,Pagi,1,25000,34056.03385760294
+Es Teh,Yogyakarta,Sore,5,22000,104295.37664455865
+Es Teh,Magelang,Siang,4,22000,77976.28473208283
+Kentang Goreng,Yogyakarta,Pagi,1,15000,19505.40938417096
+Es Teh,Semarang,Malam,5,30000,154346.90500236765
+Es Teh,Semarang,Siang,3,18000,38111.911814538194
+Americano,Magelang,Pagi,1,15000,19676.299156515917
+Americano,Semarang,Siang,5,22000,113416.78728723957
+Roti Bakar,Magelang,Siang,4,25000,96215.00373675895
+Es Teh,Yogyakarta,Siang,5,30000,154473.8054101417
+Roti Bakar,Semarang,Malam,5,18000,95784.37856166909
+Americano,Magelang,Malam,5,20000,100265.57617366312
+Cappuccino,Yogyakarta,Siang,5,18000,101669.51006058967
+Cappuccino,Yogyakarta,Pagi,3,22000,59563.010014722255
+Cappuccino,Semarang,Pagi,2,25000,41595.56034311892
+Kentang Goreng,Magelang,Siang,2,15000,30019.35026957844
+Americano,Semarang,Malam,2,20000,60551.01633729797
+Americano,Magelang,Malam,2,18000,33315.70021727038
+Cappuccino,Magelang,Pagi,4,30000,128820.28682754318
+Es Teh,Magelang,Sore,4,22000,85360.10776937206
+Kentang Goreng,Magelang,Pagi,5,25000,128353.79768834701
+Es Teh,Magelang,Siang,2,15000,20403.755659177357
+Roti Bakar,Yogyakarta,Malam,2,20000,30237.54497775509
+Americano,Magelang,Sore,3,22000,73082.67419951454
+Cappuccino,Semarang,Malam,1,22000,27339.973832194126
+Kentang Goreng,Semarang,Sore,3,18000,55439.4162222197
+Es Teh,Magelang,Pagi,5,15000,68604.14287896207
+Cappuccino,Semarang,Siang,3,25000,87022.96674613553
+Cappuccino,Semarang,Siang,4,22000,69985.41475505392
+Cappuccino,Magelang,Pagi,5,30000,137400.4312841433
+Kentang Goreng,Yogyakarta,Sore,4,22000,105136.39319371775
+Kopi Susu,Semarang,Siang,3,30000,95379.25896167241
+Cappuccino,Magelang,Sore,4,20000,75429.4754319527
+Kentang Goreng,Yogyakarta,Malam,4,25000,104336.37919741287
+Americano,Yogyakarta,Malam,1,30000,29358.13551886325
+Americano,Semarang,Pagi,5,15000,89618.03489209701
+Roti Bakar,Magelang,Siang,1,15000,17616.752457426286
+Es Teh,Yogyakarta,Sore,2,15000,37888.41656615113
+Es Teh,Yogyakarta,Sore,4,20000,78225.25460637735
+Kopi Susu,Yogyakarta,Sore,1,25000,18053.978903091604
+Americano,Magelang,Pagi,5,18000,106013.82890270176
+Es Teh,Magelang,Siang,5,22000,112195.09861883966
+Es Teh,Semarang,Siang,2,18000,23390.36047897611
+Cappuccino,Semarang,Pagi,5,22000,96855.98708171456
+Americano,Yogyakarta,Pagi,5,25000,123374.98999280282
+Roti Bakar,Semarang,Malam,4,18000,71987.42094413118
+Roti Bakar,Yogyakarta,Malam,4,18000,74252.43477258766
+Kopi Susu,Semarang,Pagi,5,18000,86325.88203214701
+Americano,Magelang,Siang,4,22000,94099.98534061364
+Kentang Goreng,Yogyakarta,Malam,1,30000,31551.310992480598
+Roti Bakar,Semarang,Malam,4,18000,88565.4197064869
+Kopi Susu,Magelang,Siang,4,22000,102110.19074385645
+Cappuccino,Magelang,Sore,4,18000,61965.690954856225
+Kentang Goreng,Magelang,Siang,4,18000,90303.90169099066
+Kentang Goreng,Semarang,Pagi,2,22000,42211.89260176406
+Kentang Goreng,Yogyakarta,Sore,1,22000,15203.31138448257
+Es Teh,Magelang,Malam,3,18000,49292.851697090286
+Kentang Goreng,Magelang,Pagi,3,18000,58836.16955012768
+Kopi Susu,Yogyakarta,Siang,5,18000,85001.28324744196
+Kopi Susu,Yogyakarta,Pagi,4,20000,100253.80920400133
+Roti Bakar,Magelang,Pagi,1,22000,25299.271083335832
+Es Teh,Yogyakarta,Malam,3,18000,45055.749438118146
+Es Teh,Semarang,Pagi,3,20000,49936.67576444262
+Es Teh,Magelang,Malam,5,25000,128604.77686144266
+Es Teh,Semarang,Sore,4,25000,106326.99794861766
+Es Teh,Magelang,Sore,3,25000,73387.0722224915
+Americano,Magelang,Sore,2,18000,27120.369860216735
+Es Teh,Yogyakarta,Pagi,2,15000,22253.19861172365
+Kentang Goreng,Yogyakarta,Pagi,3,18000,64430.856574973885
+Cappuccino,Yogyakarta,Sore,1,18000,18872.6240670978
+Kopi Susu,Semarang,Sore,1,30000,39344.94072996764
+Kopi Susu,Yogyakarta,Sore,5,15000,70380.15996289882
+Kopi Susu,Magelang,Pagi,2,25000,57252.17091361454
+Roti Bakar,Semarang,Siang,2,18000,37174.25927565831
+Americano,Yogyakarta,Sore,4,15000,50379.95602928629
+Americano,Yogyakarta,Siang,3,18000,59773.692080716006
+Americano,Magelang,Pagi,4,15000,45510.16712269087
+Es Teh,Semarang,Pagi,3,30000,86049.33999814007
+Kopi Susu,Semarang,Malam,2,25000,61188.63355558588
+Cappuccino,Yogyakarta,Pagi,4,30000,120522.79356735924
+Cappuccino,Yogyakarta,Siang,2,20000,53334.680782172385
+Es Teh,Yogyakarta,Sore,4,30000,104504.47451954923
+Kentang Goreng,Semarang,Malam,4,30000,130186.88208678267
+Kopi Susu,Semarang,Pagi,3,18000,53058.18907504081
+Es Teh,Yogyakarta,Sore,2,20000,18717.78988038788
+Americano,Magelang,Siang,4,15000,53522.281083769994
+Es Teh,Yogyakarta,Siang,2,30000,73395.29617745063
+Kentang Goreng,Yogyakarta,Malam,5,22000,115495.50177602154
+Kopi Susu,Yogyakarta,Pagi,2,18000,26330.98356409681
+Cappuccino,Yogyakarta,Pagi,3,15000,53432.6451102879
+Roti Bakar,Semarang,Sore,4,25000,106736.83387626143
+Cappuccino,Magelang,Malam,2,25000,50577.03553148953
+Kentang Goreng,Magelang,Pagi,4,15000,57835.4860401957
+Kopi Susu,Semarang,Pagi,3,25000,63989.12057807939
+Americano,Magelang,Sore,5,18000,74259.08712673686
+Kopi Susu,Semarang,Sore,1,15000,19918.760872982457
+Cappuccino,Semarang,Malam,2,18000,38443.14192298635
+Kentang Goreng,Magelang,Malam,4,25000,120537.92856599714
+Americano,Magelang,Siang,2,25000,58594.02359061662
+Roti Bakar,Yogyakarta,Malam,2,15000,33570.81822432379
+Cappuccino,Yogyakarta,Pagi,5,15000,79293.16571628556
+Roti Bakar,Semarang,Malam,2,22000,34016.750979030534
+Kopi Susu,Semarang,Pagi,4,18000,74213.63590518624
+Americano,Semarang,Malam,1,22000,24808.583337598408
+Cappuccino,Semarang,Siang,3,20000,69385.13728003486
+Roti Bakar,Semarang,Malam,1,30000,32937.89228445949
+Es Teh,Yogyakarta,Pagi,2,18000,31016.702237414353
+Roti Bakar,Semarang,Pagi,2,25000,26637.313841543895
+Kopi Susu,Magelang,Malam,3,20000,58033.21106459375
+Es Teh,Magelang,Siang,2,15000,31802.07208623237
+Es Teh,Semarang,Pagi,1,30000,35222.408452500225
+Kentang Goreng,Magelang,Sore,3,25000,70763.18787206762
+Roti Bakar,Yogyakarta,Sore,1,18000,22014.373709915257
+Kentang Goreng,Yogyakarta,Sore,2,18000,22967.759706098783
+Kopi Susu,Magelang,Siang,1,15000,13884.587027836244
+Roti Bakar,Semarang,Malam,2,20000,46035.72344527275
+Kentang Goreng,Semarang,Sore,4,20000,88965.4261972353
+Es Teh,Magelang,Siang,1,25000,33771.36216153516
+Kopi Susu,Semarang,Pagi,5,20000,98080.38226353023
+Roti Bakar,Yogyakarta,Malam,5,20000,105183.31135996534
+Kopi Susu,Yogyakarta,Malam,3,30000,91530.86155544521
+Kopi Susu,Yogyakarta,Pagi,1,20000,13810.80781947275
+Americano,Yogyakarta,Sore,1,25000,21178.256387952475
+Cappuccino,Magelang,Siang,2,25000,56961.58739848285
+Cappuccino,Magelang,Pagi,4,18000,72039.53144314648
+Kentang Goreng,Semarang,Sore,4,20000,81936.09481908512
+Kentang Goreng,Yogyakarta,Sore,5,18000,105626.71995576868
+Roti Bakar,Magelang,Pagi,2,20000,40634.800529024826
+Americano,Semarang,Pagi,4,30000,124864.12986548615
+Cappuccino,Magelang,Pagi,5,22000,103006.74804179047
+Cappuccino,Yogyakarta,Siang,1,22000,10048.176224673454
+Es Teh,Magelang,Malam,1,30000,40323.51864952596
+Roti Bakar,Yogyakarta,Pagi,2,22000,46995.67987698877
+Cappuccino,Yogyakarta,Pagi,2,22000,42153.1246280583
+Cappuccino,Magelang,Malam,1,15000,17296.761835162357
+Es Teh,Semarang,Pagi,4,18000,70402.14930808118
+Roti Bakar,Magelang,Pagi,2,18000,40416.066140899886
+Kopi Susu,Semarang,Pagi,4,25000,106295.00805533746
+Es Teh,Semarang,Sore,5,18000,91070.0296521081
+Americano,Yogyakarta,Malam,3,15000,46367.014390525816
+Es Teh,Yogyakarta,Siang,4,25000,98872.44711137527
+Americano,Magelang,Malam,4,25000,100630.42601578185
+Cappuccino,Yogyakarta,Pagi,1,30000,21563.57776479437
+Kopi Susu,Magelang,Pagi,3,15000,43154.5149495625
+Americano,Magelang,Siang,3,22000,60281.2601098478
+Es Teh,Yogyakarta,Siang,1,18000,16209.106761156756
+Americano,Magelang,Sore,3,25000,81706.02956218444
+Roti Bakar,Semarang,Sore,5,30000,158978.11057792665
+Roti Bakar,Semarang,Pagi,5,20000,88770.93087089139
+Es Teh,Yogyakarta,Sore,5,30000,152363.29557791282
+Americano,Semarang,Pagi,2,25000,37419.037915159264
+Roti Bakar,Magelang,Sore,5,22000,96009.95761114074
+Kentang Goreng,Yogyakarta,Siang,4,18000,83648.61226924593
+Es Teh,Magelang,Pagi,4,25000,93053.57931905027
+Kentang Goreng,Semarang,Malam,5,25000,132385.30658329805
+Kopi Susu,Magelang,Siang,4,18000,63458.713634692125
+Es Teh,Yogyakarta,Siang,2,15000,11093.703452051013
+Roti Bakar,Semarang,Malam,3,25000,82500.22610952605
+Roti Bakar,Yogyakarta,Pagi,1,30000,22749.14506107161
+Es Teh,Yogyakarta,Malam,2,30000,53545.28873741085
+Es Teh,Magelang,Pagi,5,30000,140252.4144161953
+Roti Bakar,Magelang,Pagi,1,22000,3929.3338960361434
+Cappuccino,Semarang,Siang,5,18000,82881.11177737259
+Americano,Magelang,Sore,3,30000,87138.18969256511
+Americano,Yogyakarta,Malam,4,20000,83904.6104366405
+Cappuccino,Yogyakarta,Malam,3,30000,91148.15337117286
+Cappuccino,Yogyakarta,Malam,4,30000,110195.21939267726
+Americano,Magelang,Siang,5,15000,75167.27969771023
+Es Teh,Magelang,Pagi,1,18000,10610.136898090117
+Kopi Susu,Yogyakarta,Siang,2,25000,62149.79698580539
+Kopi Susu,Yogyakarta,Malam,2,15000,14486.176878790822
+Es Teh,Semarang,Siang,3,18000,49869.442589734
+Roti Bakar,Semarang,Siang,1,20000,20435.49709887729
+Cappuccino,Magelang,Pagi,4,25000,112341.31534780876
+Es Teh,Semarang,Siang,4,22000,92468.59507851348
+Kopi Susu,Magelang,Pagi,2,20000,30087.198312523054
+Roti Bakar,Semarang,Siang,5,22000,104040.57634067014
+Kentang Goreng,Yogyakarta,Sore,4,25000,110031.56807605198
+Kentang Goreng,Yogyakarta,Pagi,4,20000,76698.96744133187
+Kopi Susu,Semarang,Siang,3,22000,71792.93736339324
+Americano,Yogyakarta,Siang,2,22000,50441.76623774463
+Americano,Semarang,Siang,1,25000,18535.245563633194
+Cappuccino,Yogyakarta,Malam,2,30000,45564.66337659697
+Cappuccino,Semarang,Pagi,2,22000,41865.695337346864
+Americano,Semarang,Pagi,5,25000,122570.94969509657
+Kopi Susu,Semarang,Pagi,5,25000,130486.63736296057
+Americano,Semarang,Siang,1,25000,18381.642472878444
+Roti Bakar,Yogyakarta,Malam,1,20000,28607.22444192352
+Kopi Susu,Magelang,Malam,2,25000,60191.72365935474
+Es Teh,Semarang,Sore,5,30000,166130.6733209006
+Cappuccino,Semarang,Siang,3,30000,98010.07866172615
+Kentang Goreng,Semarang,Pagi,4,15000,67399.31658840498
+Kopi Susu,Magelang,Malam,4,18000,88124.769964822
+Cappuccino,Magelang,Malam,4,25000,93624.62255637081
+Roti Bakar,Semarang,Malam,1,25000,28833.41525153493
+Roti Bakar,Semarang,Pagi,1,22000,23549.751312160184
+Americano,Semarang,Malam,5,15000,84647.05005693155
+Cappuccino,Semarang,Malam,4,15000,66423.9283636625
+Roti Bakar,Yogyakarta,Siang,4,22000,73910.3944327946
